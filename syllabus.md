@@ -31,7 +31,7 @@ nav_order: 2
 
 ## 🧐 About
 
-Welcome to DSC 152: Applied Statistical Data Analysis and Inference at UC San Diego! 
+Welcome to DSC 152: Applied Statistical Data Analysis and Inference, at UC San Diego! 
 This course is aimed at developing skills for the analysis of real data using exploratory tools 
 and statistical inference methods. It covers basic concepts of statistical summaries and 
 graphics, estimation, testing and regression, with an emphasis on real data analysis.
