@@ -318,7 +318,7 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
 | **morning** |  | Lecture |  | Lecture |  |
 | **afternoon** |  | | Discussion / <b style="color:red">Quiz</b> | | |
-| **evening** | <b style="color:red">Lab due</b> | |  | | |
+| **evening** | <b style="color:red">Lab due</b> | <b style="color:red">Daily Check due</b> |  | <b style="color:red">Daily Check due</b> | |
 | | | | | <b style="color:red">Homework sometimes due</b> | |
 
 ---
@@ -342,13 +342,10 @@ how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
 | Participation | 3% | |
-| Lab Assignments | 10% | drop lowest score |
-| Homework Assignments | 25% | drop lowest score |
-| Quizzes | 12% | drop lowest score |
-| Midterm Project | 10% | |
-| Midterm Exam | 10% | |
-| Final Project | 10% | |
-| Final Exam | 20% | |
+| Lab Assignments | 12% | drop lowest score |
+| Homework Assignments | 15% |  |
+| Quizzes | 40% | drop lowest score |
+| Final Exam | 30% | |
 
 Note that in each category, all assignments in that category will be worth the same amount,
 regardless of the number of points they are graded out of.
