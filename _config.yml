@@ -44,12 +44,6 @@ aux_links:
     - *campuswire
   💯 Gradescope:
     - *gradescope
-  📌 Reference:
-    - *reference
-  💪 Practice:
-    - *practice
-  ✅ CC:
-    - *cc
   🎥 Podcasts:
     - *podcasts
 footer_content:
