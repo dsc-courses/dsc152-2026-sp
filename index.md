@@ -14,7 +14,9 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .success }
->All course communications (from us to you, and from you to us) during the quarter should be posted on [Campuswire](https://campuswire.com/c/GF283E889/feed/551)
+All course communications should be posted on [Campuswire](https://campuswire.com/c/GCF7F25DF/feed); please direct all questions you have
+during the quarter either as a public post or to "instructors & TAs" there. 
+
 
 <!--{: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due very soon, on **Saturday, September 27th at 11:59PM**.-->
