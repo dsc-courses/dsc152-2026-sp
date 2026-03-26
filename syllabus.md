@@ -318,8 +318,8 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
 | **morning** |  | Lecture |  | Lecture |  |
 | **afternoon** |  | | Discussion / <b style="color:red">Quiz</b> | | |
-| **evening** | <b style="color:red">Lab due</b> | <b style="color:red">Daily Check due</b> |  | <b style="color:red">Daily Check due</b> | |
-| | | | | <b style="color:red">Homework sometimes due</b> | |
+| **night** | <b style="color:red">Lab due</b> | <b style="color:red">Daily Check due</b> |  | <b style="color:red">Daily Check due</b> | |
+| **night** | | | | <b style="color:red">Homework sometimes due</b> | |
 
 ---
 
@@ -327,9 +327,9 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 
 There will be 3 participation points available:
 
-- 2 points for the Pretest, graded for honest effort.
+- 1 point for doing the Welcome Survey.
 - 1 point for getting all answers correct on the Syllabus Check.
-- 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey.
+- 1 point for completing SETs (Student Evaluations of Teaching).
 
 Your participation grade will be the number of points earned out of 3.
 
@@ -342,8 +342,9 @@ how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
 | Participation | 3% | |
+| Daily Checks | 5% | drop lowest two |
 | Lab Assignments | 12% | drop lowest score |
-| Homework Assignments | 15% |  |
+| Homework Assignments | 10% |  |
 | Quizzes | 40% | drop lowest score |
 | Final Exam | 30% | |
 
