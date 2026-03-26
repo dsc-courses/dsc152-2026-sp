@@ -315,24 +315,25 @@ Welcome Survey responses are in.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
-| | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
-| **morning** |  | Lecture | | Lecture |  |
-| **afternoon** | | | Discussion | <b style="color:red">Quiz</b> | |
-| **evening** | <b style="color:red">Lab due</b> | <b style="color:red">Daily Check due</b>  | | <b style="color:red">Daily Check due </b>  | |
-| **evening** | | | | <b style="color:red">Sometimes HW due</b> | |
+|              | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
+|--------------|------------|-------------|---------------|--------------|------------|
+| **morning**  |            | Lecture     |               | Lecture      |            |
+| **afternoon**|            |             | Discussion    | <b style="color:red">Quiz</b> |            |
+| **evening**  | <b style="color:red">Lab due</b> | <b style="color:red">Daily Check due</b> |            | <b style="color:red">Daily Check due</b> |            |
+|              |            |             |               | <b style="color:red">Sometimes HW due</b> |            |
 ---
 
 ## 🙋 Participation
 
 Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. A portion of your grade will be allocated towards participation.
 
-There will be 4 participation points available:
+There will be 3 participation points available:
 
 - 2 points for the Pretest, graded for honest effort.
 - 1 point for getting all answers correct on the Syllabus Check.
 - 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey.
 
-Your participation grade will be the number of points earned out of 4.
+Your participation grade will be the number of points earned out of 3.
 
 ---
 
