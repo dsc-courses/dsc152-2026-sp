@@ -318,13 +318,12 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
 | **morning** |  | Lecture |  | Lecture |  |
 | **afternoon** |  | | Discussion / <b style="color:red">Quiz</b> | | |
-| **evening** | <b style="color:red">Lab due</b> | | <b style="color:red">Homework due</b> | | |
+| **evening** | <b style="color:red">Lab due</b> | |  | | |
+| | | | | <b style="color:red">Homework sometimes due</b> | |
 
 ---
 
 ## 🙋 Participation
-
-Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. A portion of your grade will be allocated towards participation.
 
 There will be 3 participation points available:
 
