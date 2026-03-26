@@ -150,7 +150,7 @@ Make sure you can access all three sites.
 
 ### Syllabus Check
 
-To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a [Syllabus Check][syllabus_check], which is a short quiz about the information contained on the syllabus and course website.
+To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a Syllabus Check (on Canvas/Gradescope), which is a short quiz about the information contained on the syllabus and course website.
 
 You must complete the Syllabus Check before the deadline with a score of **100% to earn credit**. However, you may modify your answers after receiving your score, so please resubmit as necessary in order to receive the required score.
 
@@ -158,12 +158,12 @@ If you have questions about any course-related policies in the future, always re
 
 ### Welcome Survey
 
-Please fill out this short [Welcome Survey][welcome_survey] at the start of the quarter. This is required of all students.
+Please fill out the short Welcome Survey on Canvas/Gradescope at the start of the quarter. This is required of all students.
 
 
 ---
 
-## 💬 Communication
+## Communication
 
 This quarter, we’ll be using [Campuswire][campuswire] (join code: 1733) as our course message board.
 
@@ -186,18 +186,46 @@ communication in one place. In particular, don't send course staff questions abo
 
 ---
 
-## 📕 Readings
+## Readings
 
-Our readings will come from two free online sources.
+Our readings will come from several free online sources.
 
-- [Computational and Inferential Thinking
-  ("CIT")](https://inferentialthinking.com) is the main textbook for the course, written to support UC Berkeley's version of this course, from which DSC 10 was adapted. This book uses some different Python commands (it does not use the `babypandas` module), but the underlying concepts are the same.
-- [Notes on (Baby)Pandas ("BPD")](https://notes.dsc10.com) are a set of notes
-  about the `babypandas` module, written specifically for DSC 10 students.
+### Textbooks
+
+- [ModernDive](https://moderndive.com/v2/) - Chester Ismay, Albert Kim and Arturo Valdivia
+- [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/) - Keith McNulty
+- [Time Series Analysis With R](https://nicolarighetti.github.io/Time-Series-Analysis-With-R/index.html) - Nicola Righetti
+- [R Cookbook](https://rc2e.com/) - James (JD) Long, Paul Teetor
+
+
+### Course notes
+
+- [PSU Applied Statistics Course Notes](https://online.stat.psu.edu/stat500/) - Penn State Department of Statistics
+- [Statistics and Predictive Analyics Course Notes](https://bookdown.org/jefftemplewebb/IS-6489/) - Jeff Webb, University of Utah
+- [Data Handling, Visualization and Statistics Course Notes](https://jonesor.github.io/BB852_Book/) - Owen R. Jones, University of Southern Denmark
 
 ---
 
-## 🧪 Assignments
+## Assignments
+
+### Daily Checks
+After each lecture, a brief assignment will be due to Gradescope. These assignments will
+typically consist of short conceptual questions, coding, or a mix of both. They will
+be based directly on content from that day’s class, and should be very quick and
+straightforward if you were in class. If you miss class, it should still be possible to
+do the assignment, but it may take a bit more time and effort.
+
+I recommend turning these in as soon after class as possible (or even during class), 
+but they will be
+due at midnight on the day of class. They will be scored based on a "good-faith
+effort" out of 1 point each. Your lowest two scores will be dropped. Late submissions
+will not be accepted unless there are extenuating circumstances such as a
+serious prolonged illness; reach out to "instructors & TAs" on Campuswire if necessary
+and these will be handled on a case-by-case basis
+(do not email or even send direct messages on Campuswire to individual staff members; 
+a response will likely be delayed, or even worse, your message may get completely buried, 
+if you do this).
+
 
 ### Lab Assignments
 
@@ -257,78 +285,6 @@ Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
 [Academic Integrity Policies](#-academic-integrity-policies) section for more
 details.
-
-### Projects
-
-This class has two projects, a Midterm Project and a Final Project. Projects
-are like more challenging homeworks. They are longer than a typical homework,
-and they require you to pull together ideas from previous weeks, rather than
-just the last week. Projects also give you a chance to explore a dataset
-in-depth, which can be a lot of fun!
-
-Project tests are like homework tests – the provided tests only check if your
-answers have the correct format, not if they are correct. You'll only be able to see
-your score on the project after the deadline, once all projects are submitted
-and the hidden correctness tests have been run.
-
-**Unlike labs and homeworks, you may work with a partner on projects.** Your
-partner can be anyone else in any section of the course. If you choose to
-work with a partner, start by reading these [project partner guidelines](../project-partners).
-If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in your Gradescope submission.
-
-### Deadlines and Slip Days
-
-Labs, homeworks, and projects must be submitted by 11:59PM on the due date to
-be considered on time. You may turn them in as many times as you like before
-the deadline, and only the most recent submission will be graded, so it's a
-good habit to **submit early and often**.
-
-{: .warning }
-When submitting any assignment to Gradescope, make sure to stick around until you
-see a confirmation that all tests have passed. If the Gradescope autograder
-cannot grade your work or you see a message saying "Your submission timed out,"
-this indicates an error with your code, and it is your responsibility to identify
-and solve the problem before the deadline.
-
-It may take some time for Gradescope's autograder to grade your submission.
-You are encouraged to submit with enough time to see the output of the autograder before the 11:59PM deadline,
-as it may alert you to a problem you need to fix. However, if you submit before
-11:59PM and the autograder finishes running after 11:59PM, your assigment will still be
-considered on time.
-
-After submitting, check that you got a confirmation email
-from Gradescope to verify that your submission was successful. Save this email
-until you receive your grade on the assignment, in case of any issues with your submission.
-
-You are allotted **six "slip days"** to use throughout the quarter. A slip day extends
-the deadline of any one homework, lab, or project by 24 hours. You cannot turn
-in any assignments more than 48 hours late, meaning that you cannot use more
-than 2 slip days on any assignment.
-
-Slip days are designed to be a transparent and predictable source of leniency
-in deadlines. You can use a slip day if you are too busy to complete an
-assignment on its original due date. But slip days are also meant for things
-like the internet (or the DataHub server) going down at 11:58PM just as you go
-to submit your homework. Slip days are meant to be used in exceptional
-circumstances, so you probably should not need to use all six, but if you have
-something going on in your life that is impeding your ability to do your
-classwork on time, please reach out to us **before** using up all your slip days.
-
-**Slip days are applied automatically at the end of the quarter, and you don't
-need to ask in order to use one.** It's your responsibility to keep track of
-how many you have left. If you've run out of slip days and submit an assignment
-late, that assignment may still be graded, but you will receive a 0 on it when
-we calculate grades at the end of the quarter. However, in the event that you
-use all six slip days and submit another assignment late, we will allocate your slip
-days first to the Final Project and Midterm Project, then to your homeworks (in
-chronological order), and then to your labs (in chronological order). This is
-done to prevent you from receiving a 0 on, say, the Final Project, if you've
-used up all of your slip days at the end of the quarter; in such an example,
-you'd instead receive a 0 on an earlier assignment that isn't weighted as much
-in your grade.
-
-If you submit the Midterm Project or Final Project late and are working with a partner,
-both you and your partner will have to use slip days. For example, if you submit the Midterm Project two days late, both you and your partner will lose two slip days.
 
 ### Submission Errors
 
