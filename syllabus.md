@@ -27,7 +27,7 @@ nav_order: 2
 [syllabus_check]: {{ site.urls.syllabus_check }}
 [welcome_survey]: {{ site.urls.welcome_survey }}
 
-## 🧐 About
+## About
 
 Welcome to DSC 152: Applied Statistical Data Analysis and Inference, at UC San Diego! 
 This course is aimed at developing skills for the analysis of real data using exploratory tools 
@@ -46,7 +46,7 @@ I am grateful for multiple conversations with Drs. Justin Eldridge and Armin Sch
 
 ---
 
-## 👨‍🏫 Course Meetings
+## Course Meetings
 
 ### Lecture
 
@@ -107,31 +107,29 @@ TBD
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 Make sure to complete the four items listed below by **Wednesday, Jan 7th at
 11:59PM**. If you join the course late, these items are due at 11:59PM the day
 after you join the class.
 
-1. Join [Campuswire][campuswire] (join code: 6304).
+1. Join [Campuswire][campuswire] (join code: 1733).
 2. Check if you can access [Gradescope][gradescope]. If not, send a private message to the instructional staff on Campuswire with your name, PID, and email address, then we can add you so you can submit assignments.
-3. Read the syllabus and course website and complete the [Syllabus Check][syllabus_check].
-4. Fill out the [Welcome Survey][welcome_survey].
-
-After that, start working on the [Pretest](https://practice.dsc10.com/pretest/). You will need to submit your written solutions to [Gradescope][gradescope] alongside your first assignment, Lab 0.
+3. Read the syllabus and course website and complete the Syllabus Check on Canvas/Gradescope.
+4. Fill out the Welcome Survey on Canvas/Gradescope.
 
 ### Technology
 
-First and foremost, you will need access to a computer (or tablet with a
-keyboard) and a stable internet connection to participate in this course. UCSD
+If you do not have access to a computer, UCSD
 has a [Laptop Lending Program](https://basicneeds.ucsd.edu/financial-security/laptop-lending-program.html) which may be helpful, but you should also contact
-us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary for discussion sections.
+us if you have any concerns about access to technology. It is recommended that
+you bring a laptop to every class session you attend. 
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
 - **Campuswire:** We'll be using Campuswire as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here][campuswire] (join code: 6304).
+  section below. If you didn't already get an invitation, [join here][campuswire] (join code: 1733).
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope][gradescope]. This is where all of your grades will live as well.
@@ -145,11 +143,10 @@ additional platforms that you'll need to access:
   science and machine learning platform, where you will work on assignments. We
   will show you how to use it in class.
 
-Make sure you can access all three sites. It's a good idea to bookmark
-them, too (though they're all linked at the top of this website).
+Make sure you can access all three sites.
 
 {: .warning }
-**We will not be using Canvas this quarter. Please do not contact the staff through Canvas – we won't be able to read it!**
+**Other than for gradebook syncing to Gradescope, we will not be using Canvas this quarter. Please do not contact the staff through Canvas – we won't be able to read it! Use Campuswire for all course communications.**
 
 ### Syllabus Check
 
@@ -163,30 +160,25 @@ If you have questions about any course-related policies in the future, always re
 
 Please fill out this short [Welcome Survey][welcome_survey] at the start of the quarter. This is required of all students.
 
-### Pretest
-
-DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [Pretest](https://practice.dsc10.com/pretest/). This Pretest will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills.
-
-The Pretest will be graded based on honest effort, not on the correctness of your responses. You will earn some participation credit for working on the Pretest and submitting your written solutions to Gradescope by the deadline.
-
-We'll release solutions to the Pretest after the due date, and you are highly encouraged to check how you did and learn from it.
 
 ---
 
 ## 💬 Communication
 
-This quarter, we’ll be using [Campuswire][campuswire] (join code: 6304) as our course message board.
+This quarter, we’ll be using [Campuswire][campuswire] (join code: 1733) as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
-question about data science — you can make a post on Campuswire. If your post
+question about statistics — you can make a post on Campuswire. If your post
 includes any part of your solution to a problem (e.g. code), please make your
-post private; otherwise, please make your post public so that other students
+post private to "instructors & TAs"; otherwise, please make your post public so 
+that other students
 can benefit from the interaction. You can also post anonymously if you prefer.
 Course staff will regularly check Campuswire and try to answer any questions
 that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
-strengthen your understanding of the material.
+strengthen your understanding of the material (we will monitor this and modify
+any answers that are not quite correct!)
 
 {: .note }
 Please use Campuswire **instead of email**, as this helps us keep all course-related
