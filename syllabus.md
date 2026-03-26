@@ -316,7 +316,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
-| **morning** | Lecture | | Lecture | | Lecture |
+| **morning** |  | Lecture |  | Lecture |  |
 | **afternoon** | Discussion (only Week 1) | | | |<b style="color:red">Quiz</b> |
 | **evening** | <b style="color:red">Lab due</b> | | <b style="color:red">Homework due</b> | | |
 
