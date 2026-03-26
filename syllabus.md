@@ -85,37 +85,34 @@ To help us assign you to a pod that works for your schedule, please let us know 
 
 ### Discussion
 
-**New**{: .label .label-green } We will not be using the schedules discussion
-section timeslot this quarter with **one exception**: on the first day of class
-(Mon Jan 5, 2026), we will hold discussion sections in their scheduled timeslots
-in order to help you get set up with the technology you'll be using all quarter.
+There are two discussion sections:
 
-<!-- There are two discussion sections:
+- Wednesdays 3-3:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
+- Wednesdays 4-4:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
 
-- Mondays 1-1:50PM in [FAH 1450](https://map.concept3d.com/?id=1005#!m/610083).
-- Mondays 3-3:50PM in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320).
-- Mondays 4-4:50PM in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320).
-- Mondays 5-5:50PM in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320).
+For three of these times, a quiz will be administered (see below). Otherwise, discussion
+sections will consist of some structured material (particularly in the first few weeks),
+or review / extra office hours. See the schedule on the home page for more details. 
 
-You will be assigned to a specific discussion section based on your availability and preferences as indicated on the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfLvqLbgbPuOj6bb40k0e8JRs0epBA-BMA8I0HasTMjiz8elQ/viewform?usp=dialog). You must attend your assigned discussion section to get credit for attendance.
+With the exception of quiz days, you may attend either discussion section time of your
+choosing on any given week, without prior approval from us. 
 
-The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+**Discussion sections will not be podcasted.** 
 
-Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams, which are typically the hardest parts of the course.
-
-**Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits. -->
-
-<!-- {: .warning }
-**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.** -->
 
 ### Quizzes
 
-On four Fridays throughout the quarter, we will have short 20-minute quizzes. Quizzes will be held in-person during the scheduled LAB section timeslots:
+On three Wednesdays throughout the quarter, we will 
+have quizzes during the discussion section times:
 
-- Section A: Friday 1-1:50PM in CSB 001
-- Section B: Friday 2-2:50PM in MANDE B-202
+- April 22nd (Week 4)
+- May 13th (Week 7)
+- June 3rd (Week 10)
 
-You must attend at your assigned time to get credit. See the course calendar for the schedule of quizzes.
+These will take place during the discussion section times listed above. Based on your responses
+to the Welcome Survey, we will assign you to either the 3pm or 4pm section time for each quiz. On
+these weeks, you MUST attend the discussion section time that we assign you to take your quiz. 
+
 
 <!-- On four other Wednesdays throughout the quarter, you will meet with your pod and mentor. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material.
 
