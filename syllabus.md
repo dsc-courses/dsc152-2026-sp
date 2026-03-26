@@ -23,8 +23,6 @@ nav_order: 2
 
 [campuswire]: {{ site.urls.campuswire }}
 [gradescope]: {{ site.urls.gradescope }}
-[practice]: {{ site.urls.practice }}
-[cc]: {{ site.urls.cc }}
 [podcasts]: {{ site.urls.podcasts }}
 [syllabus_check]: {{ site.urls.syllabus_check }}
 [welcome_survey]: {{ site.urls.welcome_survey }}
@@ -58,46 +56,33 @@ There are two lecture sections:
 - Section B: TTh 9:30-10:50am in [HSS 1330](https://map.concept3d.com/?id=1005#!m/237181?share).
 
 Lecture is meant to introduce you to the main concepts of the course. 
-In-person attendance is never required, but is strongly encouraged when possible, 
+In-person attendance is never required, but your regular attendance is STRONGLY encouraged, 
 as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, 
-and participate in discussion. Additionally, after each lecture, you will be required to turn in
+and follow along with coding exercises interactively. Additionally, after each lecture, you will be required to turn in
 a "Daily Check" assignment (more details below). We will essentially cover the entire answer
 to these in class, so if you have attended lecture that day, you simply need to submit it; if you
 have to miss class, it will still be doable, but with a bit more effort. 
 
-You can attend any lecture section regardless of which one you are registered for. 
+You may attend either lecture section regardless of which one you are registered for. 
 
 **Lectures will be podcasted**. Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
 
-### NOTHING BELOW HERE HAS YET BEEN CHANGED FROM THE DSC 10 TEMPLATE THAT I AM USING TO BUILD THIS SITE. THIS SITE IS STILL UNDER CONSTRUCTION.
-
-
-<!--
-NO PODS IN WI26
-
-### Pods
-
-Outside of lecture, this class has two additional hours designated for this class in the schedule of classes. One of these hours, on Monday afternoon, appears as DI in the schedule of classes, and will be used for discussion sections. The other hour, on Wednesday afternoon, appears as LA in the schedule of classes, and will be used for both quizzes and small group (pod) meetings.
-
-Pods will be groups of 20 to 30 students, mentored by a couse tutor. Pods will consist of students who will all attend the same lecture, discussion, quiz times, and pod meetings. Pods are meant to give you the experience of being in a "microclass" within a much larger course.
-
-To help us assign you to a pod that works for your schedule, please let us know your availability and preferences on the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfLvqLbgbPuOj6bb40k0e8JRs0epBA-BMA8I0HasTMjiz8elQ/viewform?usp=dialog). You will be assigned to a pod based on your preferences and the availability of seats. We will confirm your assigned pod and meeting times by email before Monday of Week 1. -->
-
 ### Discussion
 
-There are two discussion sections:
+There are two discussion section times:
 
 - Wednesdays 3-3:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
 - Wednesdays 4-4:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
 
-For three of these times, a quiz will be administered (see below). Otherwise, discussion
+Discussion sections will occur each week at these times.
+For three of the weeks, a quiz will be administered (see below). Otherwise, discussion
 sections will consist of some structured material (particularly in the first few weeks),
 or review / extra office hours. See the schedule on the home page for more details. 
 
 With the exception of quiz days, you may attend either discussion section time of your
 choosing on any given week, without prior approval from us. 
 
-**Discussion sections will not be podcasted.** 
+**Discussion sections will not be podcasted.**
 
 
 ### Quizzes
@@ -113,50 +98,12 @@ These will take place during the discussion section times listed above. Based on
 to the Welcome Survey, we will assign you to either the 3pm or 4pm section time for each quiz. On
 these weeks, you MUST attend the discussion section time that we assign you to take your quiz. 
 
-
-<!-- On four other Wednesdays throughout the quarter, you will meet with your pod and mentor. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material.
-
-Quizzes and pod meetings will be held on Wednesday afternoons at one of the following times.
-
-- Wednesdays 2-2:50PM in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083).
-- Wednesdays 3-3:50PM in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320).
-- Wednesdays 4-4:50PM in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320).
-- Wednesdays 5-5:50PM in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320).
-
-You will be assigned to a specific time for quizzes and pod meetings based on your availability and preferences as indicated on the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfLvqLbgbPuOj6bb40k0e8JRs0epBA-BMA8I0HasTMjiz8elQ/viewform?usp=dialog). You must attend at your assigned time to get credit for attendance. -->
+You will have the entire 50 minutes for each quiz. There will be no other material or activity
+during discussion sections on the day of a quiz. 
 
 ### Office Hours
 
-In order to provide you with help on assignments and concepts, the course staff
-will hold several office hours throughout the week, all of which will be held in-person. See the
-[Calendar](../calendar) tab of the course website for the most up-to-date schedule and instructions.
-
-{: .note }
-**We use the term "office hours" but really, office hours are held in a common room where you can come to work on assignments, meet your classmates, and get help from course staff. We don't bite and we would love to see you in office hours!**
-
-Office hours are your chance to ask for general help, clarification on
-assignments, and to review previous assignments. Our tutors have previously
-taken the class, done well, and been trained in how to help you. Course staff
-will not tell you if your answer is correct, and it is not appropriate to ask.
-Here are some really good questions to ask instead:
-
-- I got confused about a concept in class. Can you explain it?
-- When the assignment says X, does it mean A or B?
-- My code is giving a weird error - can you help me understand why?
-- I can’t get this test to pass, so I must be doing something wrong. Can you
-  help me figure it out?
-- My code is doing something different than what I expected. Can you explain
-  what is happening?
-
-Questions that you should never ask a tutor:
-
-- Is this the right answer?
-- Can you check my code and make sure it is right?
-- What is the answer?
-- What’s going to be on the exam?
-
-Your primary motivation when interacting with course staff should be
-**learning**.
+TBD
 
 ---
 

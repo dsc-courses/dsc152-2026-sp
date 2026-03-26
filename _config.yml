@@ -26,8 +26,8 @@ exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md']
 # Check out our [Campuswire discussion forum]({{ site.urls.campuswire }}) for
 # questions and announcements.
 urls:
-  campuswire: &campuswire 'https://campuswire.com/p/G54A20196'
-  gradescope: &gradescope 'https://www.gradescope.com/courses/1189614'
+  campuswire: &campuswire 'https://campuswire.com/p/GCF7F25DF'
+  gradescope: &gradescope 'https://www.gradescope.com/courses/1287129'
   podcasts: &podcasts 'https://podcast.ucsd.edu/'
   syllabus_check: 'https://docs.google.com/forms/d/e/1FAIpQLSfcH_YKl2gY9lasAUSSkKDMiNrB82m4NZIEYdomYEoZoZl5Hw/viewform?usp=sharing&ouid=104866872711045167069'
   welcome_survey: 'https://docs.google.com/forms/d/e/1FAIpQLSc-Shhz9yTDWDri4MBfBlOsOyeZt_4VGxRBgkbKfVK75SclSQ/viewform?usp=sharing&ouid=104866872711045167069'
