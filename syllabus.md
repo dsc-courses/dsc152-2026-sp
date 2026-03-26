@@ -182,13 +182,20 @@ any answers that are not quite correct!)
 
 {: .note }
 Please use Campuswire **instead of email**, as this helps us keep all course-related
-communication in one place. In particular, don't send course staff questions about course content through email, Canvas, or social media – Campuswire is the place for that.
-
+communication in one place. In particular, make your post public if you can, but if it contains
+code or personal information, make your post to "instructors & TAs" (do NOT send DMs to
+individual staff members).
 ---
 
 ## Readings
 
 Our readings will come from several free online sources.
+As this course has been created and tailored for the specific needs of our Data Science 
+majors, there is not one single textbook that fits the course. As such, we will be 
+utilizing excerpts from a variety of textbooks / course notes. 
+The specific chapters/sections mapping to each lecture are linked on the main page, 
+but here are each of the texts in their entirety. You are not responsible for anything 
+that is in these texts that is not covered in lecture; this is here for your reference only.
 
 ### Textbooks
 
@@ -229,19 +236,17 @@ if you do this).
 
 ### Lab Assignments
 
-Weekly lab assignments are a required part of the course and will help you
-develop fluency in Python and working with data. The labs are designed to help
-you build the skills you need to complete homework assignments and projects in
-a low-stress setting.
+Lab assignments in this course will look a lot like DSC 10 labs, but here
+they are designed to teach you R rather than Python. 
 
-As you complete the lab, you'll be able to run a sequence of autograder tests,
+As in DSC 10, autograder tests for labs will be visible to you as you complete the lab,
 which check to make sure that your answers are correct. If you complete the
 assignment such that all the tests pass, you'll get a perfect score!
 
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will usually be due on Thursdays at 11:59PM,
+deadline**. Lab assignments will usually be due on Tuesdays at 11:59PM,
 though you should refer to the [homepage of this website](..) for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -252,67 +257,15 @@ for more details.
 
 ### Homework Assignments
 
-Weekly homework assignments build off of the skills you have developed in labs.
-Homeworks will reinforce concepts from class, explore new ideas, and provide
-hands-on experience working with data.
-
-An important difference between labs and homeworks lies in the way autograder
-tests are run. Unlike the tests in the labs, the tests in the homework cannot
-be used to guarantee that you have the correct answers. The tests in the
-homework only check to make sure that your answer is appropriately formatted, not that it is
-correct. For example, if a homework question asks you to calculate a percentage,
-the test in the homework might only check that the answer you provide is a number
-between 0 and 100. **You should make sure that all the tests pass before
-submitting your homework, but this will not guarantee a perfect score.**
-
-After you submit your homework to Gradescope, and after the deadline for
-submissions has passed, a new set of hidden tests will be run to make sure that
-you have the correct answers. In the percentage example above, the hidden test
-might check that your answer equals 56, for example. Your score for the
-assignment will be based on the results of the hidden tests, which won't be
-available immediately after submission. So if you see a perfect score upon
-submission, this only means that you've passed the formatting tests, not the
-hidden correctness tests that determine your score.
-
-To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will usually be due on Saturdays at
-11:59PM, though you should refer to the [homepage of this website](..) for the most up-to-date schedule.
-We will release homework assignments roughly a week before they're
-due. **Your lowest homework score
-is dropped from your grade calculation at the end of the quarter.**
+There will be three homework assignments, designed to give you a more real world experience
+of statistical workflows using R Markdown. You will utilize the skills you have learned
+in approximately the 3 prior labs and 3 weeks of lecture, to carry forward a statistical workflow
+from start to finish on a real dataset. 
 
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
 [Academic Integrity Policies](#-academic-integrity-policies) section for more
 details.
-
-### Submission Errors
-
-It is your responsibility to ensure that your work is submitted correctly to
-Gradescope as a `.ipynb` file, and that the Gradescope autograder can grade your work. Watch 20:05 and onwards of [this
-video](https://youtu.be/Hq8VaNirDRQ?t=1206) to see two ways of downloading
-Jupyter notebooks as a `.ipynb` file.
-
-When submitting your work, there are two common errors to watch out for:
-
-1. Submitting your notebook in the wrong format, e.g. submitting as a `.json`
-   or `.txt` file instead of a `.ipynb` file. If you do this, the Gradescope
-   autograder will not be able to grade your work, and you will get a 0. This
-   can almost certainly be avoided by watching the aforementioned video, and by
-   waiting until you see confirmation from Gradescope that all tests have passed.
-2. Submitting the wrong notebook, e.g. submitting your Lab 6 notebook to the
-   Homework 6 assignment on Gradescope. This will also give you a 0, because
-   the Gradescope autograder for a particular assignment can only grade your
-   work for that assignment. To avoid this error, make sure to stick around on
-   Gradescope after submission until you see that all tests have passed.
-
-{: .warning }
-To prevent these issues, it is important that you let the autograder run on Gradescope until it shows you under “Public Tests” that all public test cases passed. Do not navigate away from Gradescope until you see this confirmation that your submission was able to be successfully graded!
-
-If you happen to make one of the above mistakes and you notice it yourself
-within 48 hours of the deadline, please resubmit your assignment. Note that this will use slip days, since we always grade your latest submission. If it is more than 48 hours since the deadline,
-please reach out to a staff member and we may allow you to resubmit it late, at the cost of 2 slip days.
-It is your responsibility to ensure that all assignments are submitted correctly.
 
 ---
 
@@ -324,34 +277,36 @@ Exams and quizzes are designed to test your understanding of course material, th
 
 ### Exams
 
-This class has one Midterm Exam and one Final Exam:
+This class has one Final Exam (and no midterm exam):
 
-- Midterm Exam: Wednesday, February 11th, **during your enrolled lecture slot**.
-- Final Exam: Saturday, March 14th from 8 to 11AM, location TBD.
+- Final Exam: Saturday, June 6th from 3:00pm to 6:00pm, location TBD.
 
-Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**. You'll be allowed to use one 8.5 by 11 inch page of double-sided handwritten notes, but no calculators, computers, or other resources.
+The Final Exam will cover the entire quarter, with emphasis on material after Week 5
+of the quarter. It will be held **in-person and on-paper**. You'll be allowed to use one 8.5 by 11 inch page of 
+double-sided handwritten notes, but no calculators, computers, or other resources.
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey][welcome_survey] to see if accommodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with the exam, please let us know right away via the 
+Welcome Survey (in Canvas/Gradescope) to see if accommodations can be made. 
 
 ### Quizzes
 
-Quizzes are designed to help you get more practice solving problems on-paper without a computer in front of you, as you'll need to do on exams. Like exams, quizzes are in-person and on-paper. You'll be allowed to use one 8.5 by 11 inch page of double-sided handwritten notes, but no calculators, computers, or other resources. Quiz questions are meant to be more straightforward than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam.
+There are three quizzes throughout the quarter, administered during 
+your assigned quiz time on the following dates:
 
-There are four quizzes throughout the quarter, administered during your assigned quiz time on the following dates:
+- April 22nd (Week 4)
+- May 13th (Week 7)
+- June 3rd (Week 10)
 
-- Quiz 1: Friday, January 23rd
-- Quiz 2: Friday, February 6th
-- Quiz 3: Friday, February 27th
-- Quiz 4: Friday, March 6th
-
-We will count only your three highest quiz scores towards your grade. In other words, we will drop your lowest quiz score.
-
-Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
+Your lowest score will be dropped. 
 
 {: .warning }
-We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, you have some flexibility because not all scores will be factored into your grade.
+We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, 
+the dropped quiz is intended to take care of this. If you have extenuating circumstances that
+require you to miss more than one quiz, please reach out to "instructors & TAs" on Campuswire and
+we will handle this on a case-by-case basis. 
 
-You must attend quizzes at **your assigned time**; see the course calendar for the schedule of quizzes.
+You must attend quizzes at **your assigned time** that we will establish and notify you of after the
+Welcome Survey responses are in.
 
 ---
 
@@ -361,10 +316,10 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
-| **morning** | Lecture | | Lecture | | Lecture |
-| **afternoon** | Discussion (only Week 1) | | | |<b style="color:red">Quiz</b> |
-| **evening** | <b style="color:red">Lab due</b> | | <b style="color:red">Homework due</b> | | |
-
+| **morning** |  | Lecture | | Lecture |  |
+| **afternoon** | | | Discussion / <b style="color:red">Quiz</b>  | | |
+| **evening** | <b style="color:red">Lab due</b> | <b style="color:red">Daily Check due</b>  | <b style="color:red">Daily Check due, </b> | | |
+| | | | | <b style="color:red">Sometimes HW due</b> | |
 ---
 
 ## 🙋 Participation
