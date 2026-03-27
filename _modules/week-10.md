@@ -1,66 +1,46 @@
 ---
-title: Week 10 – Review
+title: Week 10 – Time Series, Review
 weekNumber: 10
 days:
-  - date: 2026-3-9
+  - date: 2026-6-1
     events:
-      - name: LEC 25
-        type: lecture
-        title: Residuals and Inference
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec25/lec25-live.ipynb
-        html: resources/lectures/lec25/lec25.html
-        podcast:
-        readings:
-          - name: CIT 15.5-16.3
-            url: https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
-        keywords: residuals, residual plots, patterns, datasaurus dozen, prediction intervals
-      - name: LAB 7
+      - name: LAB 9
         type: lab
-        title: Regression
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab7/lab7.ipynb
-      - name: DISC 2
-        type: disc
-        title: Final Exam Review (during scheduled discussion time)
+        title: Poker and Slot Machines: Model Selection and other considerations
         url:
-  - date: 2026-3-11
+  - date: 2026-6-2
     events:
-      - name: LEC 26
+      - name: LEC 19
         type: lecture
-        title: Review
-        lecturer: Peter
-        url:
-        html: resources/lectures/final_a.pdf
-        A: resources/lectures/final_a_9am.pdf
-        podcast:
-        readings:
-  - date: 2026-3-12
-    events:
-      - name: PROJ
-        type: proj
-        title: Final Project
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=projects/final-project/final_project.ipynb
-  - date: 2026-3-13
-    events:
-      - name: LEC 27
-        type: lecture
-        title: Review, Conclusion
-        lecturer: Sam, Peter
+        title: Time Series Models
         url:
         html:
         podcast:
         readings:
-      - name: QUIZ
-        type: quiz
-        title: Research Assessment 2 (for extra credit)
-  - date: 2026-3-14
+          - name: RC 14.13-14.20
+            url: https://rc2e.com/timeseriesanalysis#recipe-id082
+  - date: 2026-6-3
     events:
-      - markdown_content: <b>Final Exam (8-11AM)</b>
-      - name: EXAM
-        type: exam
-        title: <b>Final Exam (8-11AM)</b>
+      - name: QUIZ 3
+        type: quiz
+        title: Quiz 3 covers lectures 12-17
+  - date: 2026-6-4
+    events:
+      - name: LEC 20
+        type: lecture
+        title: Catch up / Review
+        url:
+        html:
+        podcast:
+        readings:
       - name: SUR
         type: survey
-        title: SETs and End-of-Quarter Survey (due 8AM)
-        url: https://docs.google.com/forms/d/e/1FAIpQLSeOVkakKd-qBC2Qiwtg5jYorHOumQfC1dcWlK59gwJpRQScFw/viewform?usp=dialog
+        title: SETs (due 8AM)
+        url:
+  - date: 2026-6-6
+    events:
+      - markdown_content: <b>Final Exam (3-6pm)</b>      
+      - name: EXAM
+        type: exam
+        title: <b>Final Exam (3-6pm)</b>
 ---

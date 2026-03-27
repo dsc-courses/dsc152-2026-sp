@@ -1,49 +1,51 @@
 ---
-title: Week 3 – Histograms and Functions
+title: Week 3 – Effect Size and A/B Testing
 weekNumber: 3
 days:
-  - date: 2026-1-19
+  - date: 2026-4-13
     events:
-      - markdown_content: <b>No Lecture (Martin Luther King Jr. Day)</b>
-  - date: 2026-1-20
-    events:
-      - name: LAB 1
+      - name: LAB 2
         type: lab
-        title: Arrays and DataFrames
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab1/lab1.ipynb
-  - date: 2026-1-21
+        title: Type I Error Rate and Power
+        url:
+  - date: 2026-4-14
     events:
-      - name: LEC 7
+      - name: LEC 5
         type: lecture
-        title: Distributions and Histograms
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec07/lec07-live.ipynb
-        html: resources/lectures/lec07/lec07.html
+        title: Statistical Significance vs. Effect Size
+        url:
+        html:
         podcast:
         readings:
-          - name: CIT 7.2-7.3
-            url: https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html
-        keywords: distributions, density histograms, binning, total area, overlaid plots
+          - name: Forbes
+            url: https://www.forbes.com/sites/jvchamary/2015/10/27/bacon-cancer/
+          - name: Guardian
+            url: https://www.theguardian.com/society/2015/oct/26/bacon-ham-sausages-processed-meats-cancer-risk-smoking-says-who
+  - date: 2026-4-15
+    events:
+      - name: DISC 3
+        type: disc
+        title: tidyverse basics (dplyr, ggplot2, etc)
+        url:
+  - date: 2026-4-16
+    events:
+      - name: LEC 6
+        type: lecture
+        title: A/B Testing Principles and t-Test vs. Permutation Test
+        url:
+        html:
+        podcast:
+        readings:
+          - name: Jalapic
+            url: https://jalapic.github.io/introstats/permutation-testing.html
+          - name: Medium
+            url: https://medium.com/thedeephub/permutation-test-a-robust-alternative-to-traditional-statistical-tests-2b8784554547
+          - name: data36
+            url: https://data36.com/statistical-significance-in-ab-testing/
+          - name: Unbounce
+            url: https://unbounce.com/landing-page-articles/what-is-ab-testing/
       - name: HW 1
         type: hw
-        title: Basic Python, Arrays, and DataFrames
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=homeworks/hw1/hw1.ipynb
-  - date: 2026-1-23
-    events:
-      - name: LEC 8
-        type: lecture
-        title: Functions and Applying
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec08/lec08-live.ipynb
-        html: resources/lectures/lec08/lec08.html
-        podcast:
-        readings:
-          - name: BPD 6
-            url: https://notes.dsc10.com/01-getting_started/functions-defining.html#example
-          - name: 12
-            url: https://notes.dsc10.com/02-data_sets/apply.html
-        keywords: functions, arguments, print vs. return, .apply, .reset_index
-      - name: QUIZ 1
-        type: quiz
-        title: Quiz 1 covers Lectures 1-6
+        title: One Sample Type I Errors and Power
+        url:
 ---

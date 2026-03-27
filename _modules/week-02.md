@@ -1,55 +1,39 @@
 ---
-title: Week 2 – DataFrames and Visualization
+title: Week 2 – Type I Error Rate and Power
 weekNumber: 2
 days:
-  - date: 2026-1-12
+  - date: 2026-4-6
+    events:
+      - name: LAB 1
+        type: lab
+        title: Introduction to R
+        url:
+  - date: 2026-4-7
+    events:
+      - name: LEC 3
+        type: lecture
+        title: One sample nonparametric tests and Type I Errors
+        url:
+        html:
+        podcast:
+        readings:
+          - name: PS 11
+            url: https://online.stat.psu.edu/stat500/Lesson11
+  - date: 2026-4-8
+    events:
+      - name: DISC 2
+        type: disc
+        title: Simulations in R
+        url:
+  - date: 2026-4-9
     events:
       - name: LEC 4
         type: lecture
-        title: DataFrames
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec04/lec04-live.ipynb
-        html: resources/lectures/lec04/lec04.html
+        title: One sample tests and power
+        url:
+        html:
         podcast:
         readings:
-          - name: BPD 9
-            url: https://notes.dsc10.com/02-data_sets/accessing.html
-        keywords: read_csv, .get, .assign, .sort_values, .iloc, .loc, .set_index, US states
-      - name: LAB 0
-        type: lab
-        title: Expressions and Data Types
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab0/lab0.ipynb
-      - name: PRE
-        type: survey
-        title: Pretest
-        url: https://practice.dsc10.com/pretest/index.html
-  - date: 2026-1-14
-    events:
-      - name: LEC 5
-        type: lecture
-        title: Querying and Grouping
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec05/lec05-live.ipynb
-        html: resources/lectures/lec05/lec05.html
-        podcast:
-        readings:
-          - name: BPD 10-11
-            url: https://notes.dsc10.com/02-data_sets/querying.html
-        keywords: Booleans, querying, .shape, &, |, .take, .groupby, aggregation, .drop
-  - date: 2026-1-16
-    events:
-      - name: LEC 6
-        type: lecture
-        title: Data Visualization
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec06/lec06-live.ipynb
-        html: resources/lectures/lec06/lec06.html
-        podcast:
-        readings:
-          - name: CIT 7.0-7.1
-            url: https://inferentialthinking.com/chapters/07/Visualization.html
-        keywords: numerical vs. categorical, scatter plot, line plot, bar chart, exoplanets
-      - name: QUIZ
-        type: quiz
-        title: Research Assessment 1 (+1% extra credit for completion)
+          - name: DHVS 23
+            url: https://jonesor.github.io/BB852_Book/power-analysis-by-simulation.html
 ---

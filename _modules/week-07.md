@@ -1,41 +1,40 @@
 ---
-title: Week 7 – Central Limit Theorem
+title: Week 7 – Transformations, Model Selection, Logistic Regression
 weekNumber: 7
 days:
-  - date: 2026-2-16
+  - date: 2026-5-11
     events:
-      - markdown_content: <b>No Lecture (Presidents Day)</b>
-  - date: 2026-2-17
-    events:
-      - name: LAB 4
+      - name: LAB 6
         type: lab
-        title: Simulation, Sampling, & Bootstrapping
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab4/lab4.ipynb
-  - date: 2026-2-18
+        title: Interaction Terms
+        url:
+  - date: 2026-5-12
     events:
-      - name: LEC 17
+      - name: LEC 13
         type: lecture
-        title: The Central Limit Theorem
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec17/lec17-live.ipynb
-        html: resources/lectures/lec17/lec17.html
+        title: Transformations of Variables
+        url:
+        html:
         podcast:
         readings:
-      - name: HW 4
-        type: hw
-        title: Simulation, Sampling, & Bootstrapping
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=homeworks/hw4/hw4.ipynb
-  - date: 2026-2-20
+          - name: IS 6.15
+            url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#centering-and-scaling
+          - name: 6.16
+            url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#log-transformation
+  - date: 2026-5-13
     events:
-      - name: LEC 18
+      - name: QUIZ 2
+        type: quiz
+        title: Quiz 2 covers Lectures 6-11
+  - date: 2026-5-14
+    events:
+      - name: LEC 14
         type: lecture
-        title: Choosing Sample Sizes, Statistical Models
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec18/lec18-live.ipynb
-        html: resources/lectures/lec18/lec18.html
+        title: Pitfalls of Mixing Model Selection with Inference
+        url:
+        html:
         podcast:
         readings:
-          - name: CIT 14.4-14.5
-            url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
-        keywords: distribution of the sample mean, square root law, CLT-based CIs
+          - name: Berk 2013
+            url: https://dsc152.com/resources/references/Berk2013_post-selection.pdf
 ---

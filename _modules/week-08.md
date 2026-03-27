@@ -1,57 +1,43 @@
 ---
-title: Week 8 – Hypothesis and Permutation Testing
+title: Week 8 – Logistic Regression
 weekNumber: 8
 days:
-  - date: 2026-2-23
+  - date: 2026-5-18
     events:
-      - name: LEC 19
-        type: lecture
-        title: Hypothesis Testing
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec19/lec19-live.ipynb
-        html: resources/lectures/lec19/lec19.html
-        podcast:
-        readings:
-          - name: CIT 11.3
-            url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
-        keywords: null and alternative hypotheses, test statistic, fair or unfair coin
-      - name: LAB 5
+      - name: LAB 7
         type: lab
-        title: Variability and the Normal Distribution
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab5/lab5.ipynb
-  - date: 2026-2-25
+        title: Transformations, Model Selection and Inference
+        url:
+  - date: 2026-5-19
     events:
-      - name: LEC 20
+      - name: LEC 15
         type: lecture
-        title: Hypothesis Testing and Total Variation Distance
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec20/lec20-live.ipynb
-        html: resources/lectures/lec20/lec20.html
+        title: Introduction to Logistic Regression
+        url:
+        html:
         podcast:
         readings:
-          - name: CIT 11.2
-            url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
-          - name: 11.4
-            url: https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html
-        keywords: fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD
-      - name: HW 5
-        type: hw
-        title: The Normal Distribution and the Central Limit Theorem
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=homeworks/hw5/hw5.ipynb
-  - date: 2026-2-27
+          - name: IS 8
+            url: https://bookdown.org/jefftemplewebb/IS-6489/logistic-regression.html
+          - name: HRM 5
+            url: https://peopleanalytics-regression-book.org/binomial_logistic_regression.html
+  - date: 2026-5-20
     events:
-      - name: LEC 21
+      - name: DISC 6
+        type: disc
+        title: HW2 and Quiz 2 review
+        url:
+  - date: 2026-5-21
+    events:
+      - name: LEC 16
         type: lecture
-        title: TVD, Hypothesis Testing, and Permutation Testing
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec21/lec21-live.ipynb
-        html: resources/lectures/lec21/lec21.html
+        title: Statistical Inference for Logistic Regression
+        url:
+        html:
         podcast:
         readings:
-          - name: CIT 12.0-12.1
-            url: https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html
-        keywords: confidence intervals for hypothesis testing, body temperature, smoking/babies
-      - name: QUIZ 3
-        type: quiz
-        title: Quiz 3 covers Lectures 13-17
+          - name: IS 8
+            url: https://bookdown.org/jefftemplewebb/IS-6489/logistic-regression.html
+          - name: HRM 5
+            url: https://peopleanalytics-regression-book.org/binomial_logistic_regression.html
 ---

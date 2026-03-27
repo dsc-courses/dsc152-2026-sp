@@ -12,7 +12,7 @@ import numpy as np
 CSV_PATH = "Schedule - DSC 152, Spring 2026 - sp26.csv"  #CHANGE CSV PATH for your computer
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2026
-START_FROM_WEEK = 0 #only future weeks!
+START_FROM_WEEK = 1 #only future weeks!
 
 
 def fill_missing_vals(df):
@@ -20,12 +20,10 @@ def fill_missing_vals(df):
     df["Title"] = df["Title"].ffill().astype(str)
     df["LectureNum"] = df["LectureNum"].fillna(0).astype(int)
     df["Lecture"] = df["Lecture"].fillna("").astype(str)
-    df["Lecturer"] = df["Lecturer"].fillna("").astype(str)  # NEW
     df["Lab"] = df["Lab"].fillna("").astype(str)
     df["Homework"] = df["Homework"].fillna("").astype(str)
     df["Readings"] = df["Readings"].fillna("").astype(str)
     df["Links"] = df["Links"].fillna("").astype(str)
-    df["Keywords"] = df["Keywords"].fillna("").astype(str)
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
     df["Survey"] = df["Survey"].fillna("").astype(str)
@@ -106,12 +104,10 @@ days:"""
         date = day.Date
         lec_num = day.LectureNum
         lecture = day.Lecture
-        lecturer = day.Lecturer   # NEW
         homework = day.Homework
         lab = day.Lab
         readings = day.Readings
         links = day.Links
-        keywords = day.Keywords
         discussion = day.Discussion
         quiz = day.Quiz
         survey = day.Survey
@@ -129,7 +125,6 @@ days:"""
       - name: LEC {lec_num}
         type: lecture
         title: {lecture}
-        lecturer: {lecturer}
         url:
         html:
         podcast:
@@ -146,8 +141,6 @@ days:"""
                     read_str += f"""            url: {links_list[j].strip('#')}\n"""
                 outstr += f"""{read_str}"""
                 
-            if keywords:
-                outstr += f"""        keywords: {keywords}"""
         if lec_num == 0 and lecture:
             outstr += f"""
       - markdown_content: <b>{lecture}</b>"""

@@ -1,57 +1,43 @@
 ---
-title: Week 9 – Prediction
+title: Week 9 – Time Series
 weekNumber: 9
 days:
-  - date: 2026-3-2
+  - date: 2026-5-25
     events:
-      - name: LEC 22
-        type: lecture
-        title: Permutation Testing
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec22/lec22-live.ipynb
-        html: resources/lectures/lec22/lec22.html
-        podcast:
-        readings:
-          - name: CIT 12.3
-            url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
-        keywords: smoking/babies, np.random.permutation, shuffling, Deflategate
-      - name: LAB 6
+      - name: LAB 8
         type: lab
-        title: Hypothesis Testing
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab6/lab6.ipynb
-  - date: 2026-3-4
+        title: Logistic Regression
+        url:
+  - date: 2026-5-26
     events:
-      - name: LEC 23
+      - name: LEC 17
         type: lecture
-        title: Correlation
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec23/lec23-live.ipynb
-        html: resources/lectures/lec23/lec23.html
+        title: Introduction to Time Series
+        url:
+        html:
         podcast:
         readings:
-          - name: CIT 15.0-15.2
-            url: https://inferentialthinking.com/chapters/15/Prediction.html
-        keywords: association, correlation coefficient (r), predicting heights, regression line (su)
-  - date: 2026-3-5
+          - name: TSR 4-6
+            url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/basic-concepts.html
+  - date: 2026-5-27
     events:
-      - name: HW 6
+      - name: DISC 7
+        type: disc
+        title: Extra Office Hours
+        url:
+  - date: 2026-5-28
+    events:
+      - name: LEC 18
+        type: lecture
+        title: Time Series Regression
+        url:
+        html:
+        podcast:
+        readings:
+          - name: TSR 8-9
+            url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/correlations-and-arima.html
+      - name: HW 3
         type: hw
-        title: Hypothesis Testing and Permutation Testing
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=homeworks/hw6/hw6.ipynb
-  - date: 2026-3-6
-    events:
-      - name: LEC 24
-        type: lecture
-        title: Regression and Least Squares
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec24/lec24-live.ipynb
-        html: resources/lectures/lec24/lec24.html
-        podcast:
-        readings:
-          - name: CIT 15.2-15.4
-            url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
-        keywords: regression line in original units, outliers, errors, RMSE, best fit, least squares
-      - name: QUIZ 4
-        type: quiz
-        title: Quiz 4 covers Lectures 18-21
+        title: Logistic Regression, Interaction Terms, Model Selection
+        url:
 ---

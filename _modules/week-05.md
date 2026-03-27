@@ -1,59 +1,39 @@
 ---
-title: Week 5 – Simulations and Sampling
+title: Week 5 – Interaction
 weekNumber: 5
 days:
-  - date: 2026-2-2
+  - date: 2026-4-27
     events:
-      - name: LEC 12
-        type: lecture
-        title: Simulation
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec12/lec12-live.ipynb
-        html: resources/lectures/lec12/lec12.html
-        podcast:
-        readings:
-          - name: CIT 9.3-9.4
-            url: https://inferentialthinking.com/chapters/09/3/Simulation.html
-        keywords: np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall
-      - name: LAB 3
+      - name: LAB 4
         type: lab
-        title: DataFrames, Control Flow, and Probability
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=labs/lab3/lab3.ipynb
-  - date: 2026-2-4
-    events:
-      - name: LEC 13
-        type: lecture
-        title: Distributions and Sampling
-        lecturer: Sam
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec13/lec13-live.ipynb
-        html: resources/lectures/lec13/lec13.html
-        podcast:
-        readings:
-          - name: CIT 10.0-10.4
-            url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
-        keywords: probability vs. empirical distribution, SRS, .sample, parameter, statistic
-      - name: HW 3
-        type: hw
-        title: DataFrames, Control Flow, and Probability
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=homeworks/hw3/hw3.ipynb
-      - name: SUR
-        type: survey
-        title: Mid-Quarter Survey
+        title: Type I Error rates and power in Regression
         url:
-  - date: 2026-2-6
+  - date: 2026-4-28
     events:
-      - name: LEC 14
+      - name: LEC 9
         type: lecture
-        title: Bootstrapping and Confidence Intervals
-        lecturer: Peter
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-wi&subPath=lectures/lec14/lec14-live.ipynb
-        html: resources/lectures/lec14/lec14.html
+        title: Model Diagnostics in Regression 
+        url:
+        html:
         podcast:
         readings:
-          - name: CIT 13.0-13.2
-            url: https://inferentialthinking.com/chapters/13/Estimation.html
-        keywords: inference, bootstrapping, resample, np.percentile, confidence interval
-      - name: QUIZ 2
-        type: quiz
-        title: Quiz 2 covers Lectures 7-11
+          - name: HRM 4.5
+            url: https://peopleanalytics-regression-book.org/linear_regression.html#testing-your-model-assumptions
+  - date: 2026-4-29
+    events:
+      - name: DISC 4
+        type: disc
+        title: HW1 and Quiz 1 review
+        url:
+  - date: 2026-4-30
+    events:
+      - name: LEC 10
+        type: lecture
+        title: Categorical Predictor Variables
+        url:
+        html:
+        podcast:
+        readings:
+          - name: HRM 4.4.3
+            url: https://peopleanalytics-regression-book.org/linear_regression.html#transforming-categorical-inputs-to-dummy-variables
 ---
