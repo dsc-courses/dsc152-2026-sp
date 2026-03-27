@@ -125,7 +125,7 @@ during discussion sections on the day of a quiz.
 
 ## Getting Started
 
-Make sure to complete the four items listed below by **Wednesday, Jan 7th at
+Make sure to complete the four items listed below by **Wednesday, April 1st at
 11:59PM**. If you join the course late, these items are due at 11:59PM the day
 after you join the class.
 
