@@ -6,7 +6,7 @@ days:
     events:
       - name: LAB 9
         type: lab
-        title: Poker and Slot Machines: Model Selection and other considerations
+        title: "Poker and Slot Machines: Model Selection and other considerations"
         url:
   - date: 2026-6-2
     events:

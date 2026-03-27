@@ -12,7 +12,7 @@ days:
     events:
       - name: LEC 11
         type: lecture
-        title: Interaction Terms: Interpretation and Inference 
+        title: "Interaction Terms: Interpretation and Inference "
         url:
         html:
         podcast:
@@ -29,7 +29,7 @@ days:
     events:
       - name: LEC 12
         type: lecture
-        title: Interaction Terms: Inference and Diagnostics
+        title: "Interaction Terms: Inference and Diagnostics"
         url:
         html:
         podcast:

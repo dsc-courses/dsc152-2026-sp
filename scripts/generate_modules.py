@@ -87,6 +87,12 @@ def date_conv(date):
     return f"{YEAR}-{month}-{day}"
 
 
+def correct_format(val):
+    if ':' in val:
+        return f'"{val}"'
+    return val
+
+
 def has_content(row):
     return row.loc[["Lecture", "Homework", "Lab", "Discussion", "Quiz"]].any() != ''
 
@@ -124,7 +130,7 @@ days:"""
             outstr += f"""
       - name: LEC {lec_num}
         type: lecture
-        title: {lecture}
+        title: {correct_format(lecture)}
         url:
         html:
         podcast:
@@ -151,7 +157,7 @@ days:"""
             outstr += f"""
       - name: LAB {lab_num}
         type: lab
-        title: {lab_name}
+        title: {correct_format(lab_name)}
         url: """
 
         elif "Exam" in lecture:
@@ -166,14 +172,14 @@ days:"""
                 outstr += f"""      
       - name: PROJ
         type: proj
-        title: {homework.strip()}
+        title: {correct_format(homework.strip())}
         url: """
             else:
                 hw_num, hw_name = homework.split(". ", 1)
                 outstr += f"""
       - name: HW {hw_num}
         type: hw
-        title: {hw_name.strip()}
+        title: {correct_format(hw_name.strip())}
         url: """
 
         if discussion:
@@ -182,7 +188,7 @@ days:"""
             outstr += f"""
       - name: DISC {disc_num}
         type: disc
-        title: {disc_name}
+        title: {correct_format(disc_name)}
         url: """
             
         if survey:
@@ -193,13 +199,13 @@ days:"""
                 outstr += f"""
       - name: SUR
         type: survey
-        title: {survey_name}
+        title: {correct_format(survey_name)}
         url: {survey_link}"""
             else: 
                 outstr += f"""
       - name: SUR
         type: survey
-        title: {survey}
+        title: {correct_format(survey)}
         url: """
             
         if quiz:
@@ -207,7 +213,7 @@ days:"""
             outstr += f"""
       - name: QUIZ {quiz_num}
         type: quiz
-        title: {quiz_description}"""
+        title: {correct_format(quiz_description)}"""
 
     outstr = outstr.rstrip()
     outstr += "\n---"
