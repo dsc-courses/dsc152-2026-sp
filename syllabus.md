@@ -154,10 +154,8 @@ additional platforms that you'll need to access:
   private message to the instructional staff on Campuswire with your name, PID,
   and email address.
 
-- **DataHub:** Assignments in this course will involve programming in Python.
-  DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
-  science and machine learning platform, where you will work on assignments. We
-  will show you how to use it in class.
+- **DataHub:** Like in DSC 10, we will use DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)),
+but for R instead of Python.
 
 Make sure you can access all three sites.
 
@@ -262,7 +260,7 @@ assignment such that all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will usually be due on Tuesdays at 11:59PM,
+deadline**. Lab assignments will usually be due on Mondays at 11:59PM,
 though you should refer to the [homepage of this website](..) for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -276,7 +274,7 @@ for more details.
 There will be three homework assignments, designed to give you a more real world experience
 of statistical workflows using R Markdown. You will utilize the skills you have learned
 in approximately the 3 prior labs and 3 weeks of lecture, to carry forward a statistical workflow
-from start to finish on a real dataset. 
+from start to finish on a real dataset. Each homework will be due on a Thursday.
 
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
@@ -312,6 +310,9 @@ your assigned quiz time on the following dates:
 - April 22nd (Week 4)
 - May 13th (Week 7)
 - June 3rd (Week 10)
+
+You'll be allowed to use one 8.5 by 11 inch page of 
+double-sided handwritten notes, but no calculators, computers, or other resources.
 
 Your lowest score will be dropped. 
 
@@ -367,12 +368,6 @@ how grades will be computed:
 Note that in each category, all assignments in that category will be worth the same amount,
 regardless of the number of points they are graded out of.
 
-### Regrade Requests
-
-If you'd like to request a regrade on any assignment, you must do so within one
-week of the assignment being graded. If you think there is a problem with the
-autograder, please fill out the [Autograder Regrade Request Form](https://forms.gle/qTKubrnLCjBHSfzU6).
-If you think there is a problem with how a manually-graded question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
@@ -385,141 +380,85 @@ A+ grades are given at the instructor's discretion. If you are taking the
 course P/NP, you will receive a grade of P if you meet the criteria for a C-
 grade, otherwise you will receive a grade of NP.
 
-Grades may be curved depending on overall averages. In recent quarters, there has been a small curve.
+Grades may be curved at the end of the quarter if appropriate. 
 
 If you have extenuating circumstances that prohibit your completion of
-coursework, you may be eligible for an Incomplete grade. If you are considering
-using this option, the best thing you can do is let us know right away, and we
-can help you decide if this is an appropriate course of action. If you have any
-doubt about your ability to perform satisfactorily in this course due to
-something outside of your control, please contact us as soon as possible so we
-can figure out a plan.
+coursework, you may be eligible for an Incomplete grade. Please reach out as soon
+as possible if it seems like this might be the case.
 
 ---
 
-## 🤝 Academic Integrity Policies
+## Academic Integrity 
 
-The basic rule for DSC 10 is: Work hard. Make use of the expertise of the staff
-to learn what you need to know to really do well in the course. Act with
-integrity, and don't cheat.
-
-If you do cheat, we will enforce the [UCSD Policy on Integrity of
+All students are expected to uphold UCSD's standards of Academic Integrity. Essentially
+this just means please do not cheat. If you do cheat, we will enforce the [UCSD Policy on Integrity of
 Scholarship](https://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2).
 This means you will likely fail the course and the Dean of your college will
 put you on probation or suspend or dismiss you from UCSD. Students agree that
 by taking this course, their assignments will be submitted to third party
 software to help detect plagiarism.
 
-### Why is academic integrity important?
+### What do we mean by "cheat"?
 
-Academic integrity is an issue that is pertinent to all students on campus.
-When students act unethically by copying someone’s work, taking an exam for
-someone else, plagiarizing, etc., these students are misrepresenting their
-academic abilities. This makes it impossible for instructors to give grades
-(and for the University to give degrees) that reflect student knowledge. This
-devalues the worth of a UCSD degree for all students, making it imperative for
-the campus as a whole to enforce that all members of this community are
-honest and ethical. We want your degree to be meaningful and we want you to be
-proud to call yourself a graduate of UCSD!
+ - On Daily Checks, Labs, and Homeworks, you may use any resources at your disposal, 
+ including Generative AI (more on that below), and discussing amongst each other. However,
+ you MUST write up your own assignments, in your own words. Any submissions that are found
+ to be duplicates of each other, or with clear egregious AI usage, will be considered
+ violations of academic integrity.
+ 
+ - On quizzes and exams:
+   - You may have your 8.5 x 11 double-sided cheat sheet
+   - No calculators or any other devices whatsoever
+   - Refrain from looking at other students' quiz/exam
 
-The UCSD Policy on Integrity of Scholarship and this syllabus list some of the
-standards by which you are expected to complete your academic work, but your
-good ethical judgment (or asking us for advice) is also expected as we cannot
-list every behavior that is unethical or not in the spirit of academic
-integrity. Ignorance of the rules will not excuse you from any violations.
+### Generative AI Usage:
+Generative AI / LLM tools such as ChatGPT or Claude have incredible capabilities and you are 
+welcome to use them in this class. But, you must use them wisely and with caution. The first
+thing I want to mention is that the AI boom has put tremendous strain on our natural
+resources, including (but not limited to) freshwater. While I do not demand an AI-ban
+because of this, I just want to simply encourage everyone to be mindful of your usage of AI,
+as you would when you run the faucet.
 
-### What counts as cheating?
+The second thing to be aware of is that, even in 2026, 
+they often give responses that are not completely correct. Even when they are correct, 
+they will frequently
+present responses that are obviously AI-generated. If you choose to use generative
+AI to help you with your assignments, you are responsible for ensuring that the information
+it gives you is correct, and for turning it into your own words.
 
-In DSC 10, you can read books, surf the web, talk to your friends and the DSC
-10 staff to get help understanding the concepts you need to know to complete
-your assignments. However, no other person should complete your work for you or write
-any of the code you submit in this course, with the exception of the work you do with a project partner.
+You are even welcome to ask generative AI to give you R code as needed, but again
+you are responsible for making sure that it works as it should. In my experience, the
+code that an LLM gives will often look plausible, but there will be errors in it that
+make it incorrect (and sometimes drastically so). It is best used if you have a good
+idea of what needs to happen, give it your best shot in coding it on your own, but 
+then ask AI once you are stuck. You will then be in a good position to fix
+whatever errors that AI gives you when you ask it.
 
-The following activities are considered cheating and are not allowed in DSC 10
-(not an exhaustive list):
+All usage of generative AI should be credited in your work. This includes Daily
+Checks, Lab Assignments and Homework Assignments. Any work that is determined to
+be AI-generated and not credited will have to be reported as an incident of academic
+dishonesty (see above). Additionally, even when generative AI is credited:
+ - All text should be re-written in your own words. 
+ - Any code that is AI-generated should be checked and fixed as needed. 
+   - If it actually works as is and you are as certain of it as
+you can be, then you may use it directly without modification; however, either way,
+you should add your own code comments to the code, in your own words. 
 
-- Using or submitting code acquired from other individuals.
-- Posting your code online, including on Campuswire, unless privately to
-  instructors only.
-- Having any other person complete any part of your assignment on your behalf.
-- Completing an assignment on behalf of someone else.
-- Providing code, exam questions, or solutions to any other student in the
-  course.
-- Splitting up project questions with your project partner and each
-  working on different questions.
-- Collaborating with others on quizzes or exams.
+Additionally, for your own learning, I HIGHLY recommend that you re-type any AI-generated 
+code yourself as opposed to simply copy/pasting it. As tedious as this may be, I strongly believe
+that it will be helpful in actually learning how to code in R on your own, as re-typing
+it gives you a chance to internalize the code that was given. It also gives you
+a more obvious opportunity to check through the AI-generated code to make sure that it actually
+makes sense and is correct. And again, be sure to CREDIT the generative AI that produced the code.
 
-The following activities are examples of appropriate collaboration and are
-allowed in DSC 10 (not an exhaustive list):
+One final note: this is hopefully obvious, but asking an LLM to do an entire assignment
+for you will be considered a violation of academic integrity and will have to be reported.
 
-- Discussing the general approach to solving homework problems or projects.
-- Talking about problem-solving strategies or issues you ran into and how you
-  solved them.
-- Discussing the answers to quizzes or exams once all students in all sections of the course have taken the assessment.
-- Using code provided in class or in any assigned readings or videos.
-- Google searching for documentation on Python or babypandas.
-- Working together with other students on assignments without copying or
-  sharing answers.
-- Posting a question about your approach to a problem on Campuswire, without
-  sharing your code.
 
-The best way to avoid problems is by using your best judgment and remembering
-to act with Honesty, Trust, Fairness, Respect, Responsibility, and Courage.
-Here are some suggestions for completing your work:
-
-- Don't look at or discuss the details of another student's code for an
-  assignment you are working on, and don't let another student look at your
-  code.
-- Don't start with someone else's code and make changes to it, or in any way
-  share code with other students.
-- If you are talking to another student about an assignment, don't take notes,
-  and wait an hour afterward before you write any code.
-
-### Use of Generative Artificial Intelligence
-
-Generative Artificial Intelligence (GenAI) describes tools, such as [ChatGPT](https://chat.openai.com) and GitHub Copilot, that are trained to generate responses to user-defined prompts, or questions. The existence of such tools is a major milestone in machine learning, and an impressive application of data science in the real world.
-
-Our course policy on the use of GenAI tools for coursework is simple: you may use these tools to build an understanding of course material and to assist you on assignments, keeping in mind that no tool is a substitute for a strong understanding of course concepts.
-
-Be mindful of how you are using GenAI tools. These tools can be very useful to help you preview material before lecture, summarize material after lecture, explain concepts you didn’t understand, and explore how different concepts are related. “Explain it like I’m five” can be a helpful prompt to give you a basic understanding of new concepts before being exposed to them in lecture. Consolidating your knowledge after learning something new and relating it to other things you know is important for learning and retention. Unfortunately, GenAI tools are not a consistently reliable source of quality information.
-
-For example, we asked ChatGPT to tell us about the Central Limit Theorem, an idea we will learn about towards the end of the quarter. The answer we get back is actually quite <b><span style="color:green">good</span></b>.
-
-<center>
-
-<img src="../assets/images/chatgpt-clt.png" width="75%">
-<br>
-Good answer, ChatGPT!
-
-</center>
-
-However, we also asked ChatGPT to tell us about permutation testing, another idea from the second half of the quarter. The answer we got back was <b><span style="color:red">wrong</span></b> in very subtle ways, though it might sound correct to someone learning about permutation testing for the first time. Thinking about why ChatGPT’s answer is wrong is a useful learning exercise.
-
-<center>
-
-<img src="../assets/images/chatgpt-perm.png" width="75%">
-<br>
-Not quite...
-
-</center>
-
-As this example illustrates, be skeptical about anything you learn from GenAI tools. Because of how GenAI tools are trained, they are designed to provide answers that _sound_ correct, not necessarily ones that _are_ correct. A goal of your education is to develop an ability to identify and produce information that actually is correct and doesn’t just sound correct. Human supervision of GenAI tools is always necessary.
-
-In addition, proceed with caution when using tools to assist you with your assignments. DSC 10 is a foundational class for your study of data science; you need to master the skills and concepts of this course if you want to use data science effectively. Through quizzes and exams, you will be tested on your independent ability to apply course material to novel problems. Homeworks, labs, and projects are meant to prepare you for these assessments, so overreliance on GenAI for assignments will rob you of opportunities to learn and make it hard for you to perform well on assessments.
-
-If you do use GenAI to assist you on assignments, keep these guidelines in mind:
-
-- **Design your prompts carefully.** Don’t just ask one question; ask a follow-up question based on the output to the first. To use these tools effectively, you need to engineer your prompts carefully.
-- **Test the outputs.** GenAI tools can and do make mistakes, and being able to verify the correctness of a proposed answer is an important skill for you to develop. Validate the output against course-provided references, or follow up with a search on Google or Stack Overflow. Remember that GenAI tools provide crowdsourced likely answers, not necessarily correct answers.
-- **Don’t submit any code that you don’t understand, or that uses content not taught in this class.** In this introductory course, we expose you to a limited set of Python tools that you can use to solve a wide range of problems. When you prompt a GenAI tool with a question from DSC 10, it will not be limited to our restricted toolkit, and may provide answers using much more complicated code. If you answer questions with out-of-scope content, you are not practicing the foundational skills that the course is meant to teach you. In addition, your code may not pass correctness tests that require your solution to use methods taught in the course.
-
-If your assignment submission includes any content generated by an AI tool, it should be cited to acknowledge the source of the material. At the end of each assignment, you will be provided with a space to explain and reflect on your use of GenAI tool(s).
 
 ---
 
-## 🤗 Support
-
-### Accomodations
+## Accomodations
 
 From the [Office for Students with Disabilities (OSD)](https://osd.ucsd.edu):
 
@@ -536,25 +475,6 @@ Authorization for Accommodation (AFA) letter at the start of the quarter so
 that we can make arrangements for accommodations. The Data Science OSD Liaison
 can be reached at [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu).
 
-### Diversity and Inclusion
-
-We are committed to an inclusive learning environment that respects our
-diversity of perspectives, experiences, and identities. Our goal is to create a
-diverse and inclusive learning environment where all students feel comfortable
-and can thrive. If you have any suggestions as to how we could create a more
-inclusive setting, please let us know. We also expect that you, as a student in
-this course, will honor and respect your classmates, abiding by the [UCSD
-Principles of
-Community](https://www.google.com/url?q=https%3A%2F%2Fucsd.edu%2Fabout%2Fprinciples.html&sa=D&sntz=1&usg=AFQjCNE1YPiUyffLg0kI10zLtUQl6iCDmQ).
-Please understand that others’ backgrounds, perspectives and experiences may be
-different than your own, and help us to build an environment where everyone is
-respected and feels comfortable.
-
-### Satisfactory Academic Progress for Financial Aid
-
-Satisfactory Academic Progress (SAP) refers to the academic standards students must maintain to remain eligible for federal, state, and institutional financial aid. If you are receiving financial aid, please ensure you review the [SAP requirements and the appeals process](https://fas.ucsd.edu/forms-and-resources/sap/index.html).
-
-We will not use a #FinAid survey, but we will certify academic activity for any student who submits any assignment, including the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfLvqLbgbPuOj6bb40k0e8JRs0epBA-BMA8I0HasTMjiz8elQ/viewform?usp=dialog).
 
 ---
 
