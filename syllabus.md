@@ -286,10 +286,6 @@ details.
 
 ## 📝 Assessments
 
-We will assess your knowledge of course material frequently through quizzes and exams. Quizzes and exams will be administered on paper, without the use of computers or calculators. You'll have access to a large collection of [practice problems][practice] to help you prepare. You'll see some of these problems in discussion sections and during in-class exam reviews, but the more you practice, the better prepared you'll be for the assessments.
-
-Exams and quizzes are designed to test your understanding of course material, therefore you must use methods of the course to earn credit. Solutions that are correct but outside of the scope of the course will not earn credit.
-
 ### Exams
 
 This class has one Final Exam (and no midterm exam):
