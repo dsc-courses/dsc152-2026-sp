@@ -48,6 +48,24 @@ I am grateful for multiple conversations with Drs. Justin Eldridge and Armin Sch
 
 ## Course Meetings
 
+### Office Hours
+
+We will hold the following weekly office hours this quarter:
+
+- Mondays 2-3pm (Valerie)
+- Mondays 3-4pm (Lucas)
+- Mondays 4-5pm (Aditya)
+- Thursdays 12:30-1:30pm (Peter)
+- Fridays 12:30-1:30pm (Arunima)
+
+During WEEK 1 ONLY, Lucas and Aditya's office hours will be on Friday 4/3. All office hours will
+be in HDSI Rm 355 (tentative, still confirming).
+
+The room is large enough that you are welcome to come there and work on DSC 152 assignments
+even if you do not have specific questions ahead of time, but want to be in the 
+presence of staff for any help you may need as you work.
+
+
 ### Lecture
 
 There are two lecture sections:
@@ -101,9 +119,7 @@ these weeks, you MUST attend the discussion section time that we assign you to t
 You will have the entire 50 minutes for each quiz. There will be no other material or activity
 during discussion sections on the day of a quiz. 
 
-### Office Hours
 
-TBD
 
 ---
 
