@@ -9,15 +9,15 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "Lecture Schedule – DSC 10, Winter 2026 - wi26.csv"  #CHANGE CSV PATH for your computer
+CSV_PATH = "Schedule - DSC 152, Spring 2026 - sp26.csv"  #CHANGE CSV PATH for your computer
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2026
-START_FROM_WEEK = 1 #only future weeks!
+START_FROM_WEEK = 0 #only future weeks!
 
 
 def fill_missing_vals(df):
-    df["Week"] = df["Week"].fillna(method="ffill").astype(int)
-    df["Title"] = df["Title"].fillna(method="ffill").astype(str)
+    df["Week"] = df["Week"].ffill().astype(int)
+    df["Title"] = df["Title"].ffill().astype(str)
     df["LectureNum"] = df["LectureNum"].fillna(0).astype(int)
     df["Lecture"] = df["Lecture"].fillna("").astype(str)
     df["Lecturer"] = df["Lecturer"].fillna("").astype(str)  # NEW
