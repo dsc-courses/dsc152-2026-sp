@@ -290,7 +290,7 @@ details.
 
 This class has one Final Exam (and no midterm exam):
 
-- Final Exam: Saturday, June 6th from 3:00pm to 6:00pm, location TBD.
+- Saturday, June 6th from 3:00pm to 6:00pm, location TBD.
 
 The Final Exam will cover the entire quarter, with emphasis on material after Week 5
 of the quarter. It will be held **in-person and on-paper**. You'll be allowed to use one 8.5 by 11 inch page of 
