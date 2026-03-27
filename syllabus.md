@@ -199,6 +199,7 @@ Please use Campuswire **instead of email**, as this helps us keep all course-rel
 communication in one place. In particular, make your post public if you can, but if it contains
 code or personal information, make your post to "instructors & TAs" (do NOT send DMs to
 individual staff members).
+
 ---
 
 ## Readings
