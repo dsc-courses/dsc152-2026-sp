@@ -73,15 +73,13 @@ There are two lecture sections:
 - Section A: TTh 8:00-9:20am in [HSS 1330](https://map.concept3d.com/?id=1005#!m/237181?share).
 - Section B: TTh 9:30-10:50am in [HSS 1330](https://map.concept3d.com/?id=1005#!m/237181?share).
 
-Lecture is meant to introduce you to the main concepts of the course. 
-In-person attendance is never required, but your regular attendance is STRONGLY encouraged, 
-as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, 
+In-person attendance is never required, but your regular attendance is STRONGLY encouraged, as this will give you the opportunity to ask questions, answer ungraded poll questions,
 and follow along with coding exercises interactively. Additionally, after each lecture, you will be required to turn in
-a "Daily Check" assignment (more details below). We will essentially cover the entire answer
+a "Daily Check" assignment (more details below). We will essentially cover the entire answers
 to these in class, so if you have attended lecture that day, you simply need to submit it; if you
 have to miss class, it will still be doable, but with a bit more effort. 
 
-You may attend either lecture section regardless of which one you are registered for. 
+You may always attend either lecture section regardless of which one you are registered for. 
 
 **Lectures will be podcasted**. Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
 
@@ -89,8 +87,8 @@ You may attend either lecture section regardless of which one you are registered
 
 There are two discussion section times:
 
-- Wednesdays 3-3:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
-- Wednesdays 4-4:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
+- Wednesdays 3:00-3:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
+- Wednesdays 4:00-4:50PM in [CENTR 216](https://map.concept3d.com/?id=1005#!m/163044).
 
 Discussion sections will occur each week at these times.
 For three of the weeks, a quiz will be administered (see below). Otherwise, discussion
@@ -130,7 +128,7 @@ Make sure to complete the four items listed below by **Wednesday, April 1st at
 after you join the class.
 
 1. Join [Campuswire][campuswire] (join code: 1733).
-2. Check if you can access [Gradescope][gradescope]. If not, send a private message to the instructional staff on Campuswire with your name, PID, and email address, then we can add you so you can submit assignments.
+2. Check if you can access [Gradescope][gradescope]. If not, make a post on Campuswire to "instructors & TAs" with your name, PID, and email address, then we can add you so you can submit assignments.
 3. Read the syllabus and course website and complete the Syllabus Check on Canvas/Gradescope.
 4. Fill out the Welcome Survey on Canvas/Gradescope.
 
@@ -147,11 +145,10 @@ additional platforms that you'll need to access:
   discussion board. More details are in the [Communication](#-communication)
   section below. If you didn't already get an invitation, [join here][campuswire] (join code: 1733).
 
-- **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope][gradescope]. This is where all of your grades will live as well.
+- **Gradescope:** You will submit all assignments to
+  [Gradescope][gradescope]. This is where all of your scores will live as well, but they will also be synced to the gradebook in Canvas.
   You will be automatically added to Gradescope about 24 hours after enrolling
-  in the course. If you need to submit assignments before then, please send a
-  private message to the instructional staff on Campuswire with your name, PID,
+  in the course. If you need to submit assignments before then, please make a post on Campuswire to "instructors & TAs" with your name, PID,
   and email address.
 
 - **DataHub:** Like in DSC 10, we will use DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)),
@@ -198,7 +195,7 @@ any answers that are not quite correct!)
 Please use Campuswire **instead of email**, as this helps us keep all course-related
 communication in one place. In particular, make your post public if you can, but if it contains
 code or personal information, make your post to "instructors & TAs" (do NOT send DMs to
-individual staff members).
+individual staff members as this will likely cause delays in getting a response).
 
 ---
 
