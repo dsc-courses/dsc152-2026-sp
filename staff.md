@@ -7,7 +7,6 @@ nav_order: 7
 
 # 👩‍🏫 Staff
 
-_Hover over an emoji to see a description._
 
 ## Instructors
 
