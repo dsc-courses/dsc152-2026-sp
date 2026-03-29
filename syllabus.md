@@ -54,11 +54,11 @@ We will hold the following weekly office hours this quarter:
 
 - Mondays 2-3pm (Valerie)
 - Mondays 3-4pm (Lucas)
-- Mondays 4-5pm (Aditya)
+- Tuesdays 3-4pm (Aditya)
 - Thursdays 12:30-1:30pm (Peter)
 - Fridays 12:30-1:30pm (Arunima)
 
-During WEEK 1 ONLY, Lucas and Aditya's office hours will be on Friday 4/3. All office hours will
+During WEEK 1 ONLY, Lucas' office hours will be on Friday 4/3. All office hours will
 be in HDSI Rm 355 (tentative, still confirming).
 
 The room is large enough that you are welcome to come there and work on DSC 152 assignments
@@ -73,7 +73,7 @@ There are two lecture sections:
 - Section A: TTh 8:00-9:20am in [HSS 1330](https://map.concept3d.com/?id=1005#!m/237181?share).
 - Section B: TTh 9:30-10:50am in [HSS 1330](https://map.concept3d.com/?id=1005#!m/237181?share).
 
-In-person attendance is never required, but your regular attendance is STRONGLY encouraged, as this will give you the opportunity to ask questions, answer ungraded poll questions,
+We will not take attendance, but your regular attendance is STRONGLY encouraged, as this will give you the opportunity to ask questions, answer ungraded poll questions,
 and follow along with coding exercises interactively. Additionally, after each lecture, you will be required to turn in
 a "Daily Check" assignment (more details below). We will essentially cover the entire answers
 to these in class, so if you have attended lecture that day, you simply need to submit it; if you
