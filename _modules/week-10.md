@@ -33,13 +33,12 @@ days:
         html:
         podcast:
         readings:
-      - name: SUR
-        type: survey
-        title: SETs (due 8AM)
         url:
   - date: 2026-6-6
     events:
-      - markdown_content: <b>Final Exam (3-6pm)</b>      
+      - name: SUR
+        type: survey
+        title: SETs (due 8AM)
       - name: EXAM
         type: exam
         title: <b>Final Exam (3-6pm)</b>
