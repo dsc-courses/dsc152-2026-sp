@@ -17,12 +17,17 @@ nav_order: 1
 All course communications should be posted on [Campuswire](https://campuswire.com/c/GCF7F25DF/feed); please direct all questions you have
 during the quarter either as a public post or to "instructors & TAs" there. 
 
+{: .success }
+Next to each lecture below, "code" is the .Rmd file that makes the slides, and "write" is the pdf that will (more or less)
+be what I project in class, and that you can either print or download to take notes on. 
+You can ignore the "code" file unless you are curious about how anything in the slides
+was created. 
 
 <!--{: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due very soon, on **Saturday, September 27th at 11:59PM**.-->
 
-{: .warning }
-This site is **under construction**. Anything you read here is not finalized, and likely is old information from an offering of DSC 10 that we are using as a template website. This disclaimer will be removed when the site is ready for Spring 2026.
+<!--{: .warning }
+This site is **under construction**. Anything you read here is not finalized, and likely is old information from an offering of DSC 10 that we are using as a template website. This disclaimer will be removed when the site is ready for Spring 2026.-->
 
 <!--{: .success }
 >The Final Exam is **this Saturday, June 7th from 11:30AM to 2:30PM in CENTER 101**.
@@ -36,7 +41,7 @@ This site is **under construction**. Anything you read here is not finalized, an
 >Also, make sure to use the [reference sheet](https://dsc-courses.github.io/bpd-reference/docs/documentation/intro/) to quickly look up `babypandas` methods and see examples of how they work.
 -->
 
-[Jump to the current week](/#week-10-review){: .btn }
+<!--[Jump to the current week](/#week-10-review){: .btn }-->
 
 {% for module in site.modules %}
 {{ module }}
