@@ -23,7 +23,7 @@ days:
         type: survey
         title: Welcome Survey
         url: https://www.gradescope.com/courses/1287129/assignments/7903890
-     - name: SUR
+     - name: SYL
         type: survey
         title: Syllabus Check
         url: https://www.gradescope.com/courses/1287129/assignments/7894588
