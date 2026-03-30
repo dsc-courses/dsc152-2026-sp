@@ -19,6 +19,14 @@ days:
         type: disc
         title: Getting Started with R and R Markdown
         url:
+     - name: SUR
+        type: survey
+        title: Welcome Survey
+        url: https://www.gradescope.com/courses/1287129/assignments/7903890
+     - name: SYL
+        type: survey
+        title: Syllabus Check
+        url: https://www.gradescope.com/courses/1287129/assignments/7894588
   - date: 2026-4-2
     events:
       - name: LEC 2
@@ -31,8 +39,4 @@ days:
           - name: MD 9.5
             url: https://moderndive.com/v2/hypothesis-testing.html#ht-interpretation
 
-      - name: SUR
-        type: survey
-        title: Welcome Survey
-        url:
 ---
