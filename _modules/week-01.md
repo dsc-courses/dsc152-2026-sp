@@ -38,5 +38,4 @@ days:
         readings:
           - name: MD 9.5
             url: https://moderndive.com/v2/hypothesis-testing.html#ht-interpretation
-
 ---
