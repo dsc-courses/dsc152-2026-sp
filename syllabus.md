@@ -323,8 +323,9 @@ Welcome Survey responses are in.
 
 ## 📆 Weekly Schedule
 
-To summarize all of the events and deadlines, refer to this general weekly
-schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
+This is a general weekly
+schedule that summarizes when things will frequently happen. 
+However, please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
 | **morning** |  | Lecture |  | Lecture |  |
