@@ -39,6 +39,22 @@ reference only.
 - [Data Handling, Visualization and Statistics Course Notes](https://jonesor.github.io/BB852_Book/) - Owen R. Jones, University of Southern Denmark
 
 
+## R, RStudio and R Markdown
+In this course, we will be using R, in the RStudio environment. To do so, you will need to install both R and RStudio onto your machines. You can do both of these things by going here: 
+
+ - https://posit.co/download/rstudio-desktop/
+
+Next, you will be asked to submit many assignments in this class using R Markdown. Specifically, we will want pdf output files.
+
+ - If you already have a LaTeX compiler on your computer, RStudio should detect it and it should automatically work.
+ - If you do not, the easiest thing to do is to install the `tinytex` package. In the Console in RStudio, just type these two lines:
+
+`install.packages("tinytex")`
+`tinytex::install_tinytex()`
+
+After this, you should be able to "knit" an Rmd file to a pdf. If not, please come seek help from us!
+
+
 ## UC San Diego Links
 - [Data Science Undergraduate Program](https://datascience.ucsd.edu/undergraduate/)
 - [Data Science Advising](https://datascience.ucsd.edu/current-students/academic-advising/)
