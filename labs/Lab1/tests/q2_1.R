@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 1.0,
       code = {
-        testthat::expect_equal(y, 6:105)
+        testthat::expect_equal(u, 6:105)
       }
     )
   )
