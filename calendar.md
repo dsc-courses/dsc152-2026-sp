@@ -7,7 +7,7 @@ nav_order: 3
 
 # 📆 Calendar
 
-Office hours will be held in person in Room 336 of the <a href="https://map.concept3d.com/?id=1005#!m/246301">HDSI building</a>. Many students come to office hours just to work on their assignments, even if they don't have specific questions. All are welcome and we hope to see you there!
+Office hours will be held in person in Room 336 of the <a href="https://map.concept3d.com/?id=1005#!m/246301">HDSI building</a>. You may come to office hours just to work on assignments, even if you don't have specific questions. All are welcome and we hope to see you there!
 
 <!--{: .note }
 Come back soon to view a calendar with staff office hours!-->
