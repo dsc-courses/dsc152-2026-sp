@@ -58,13 +58,11 @@ We will hold the following weekly office hours this quarter:
 - Thursdays 12:30-1:30pm (Peter)
 - Fridays 12:30-1:30pm (Arunima)
 
-During WEEK 1 ONLY, Lucas' office hours will be on Friday 4/3. All office hours will
-be in HDSI Rm 355 (tentative, still confirming).
-
-The room is large enough that you are welcome to come there and work on DSC 152 assignments
+All office hours will be in HDSI Rm 336. The room is large enough that you are welcome to come there and work on DSC 152 assignments
 even if you do not have specific questions ahead of time, but want to be in the 
 presence of staff for any help you may need as you work.
 
+During WEEK 1 ONLY, Lucas' office hours will be on Friday 4/3, in HDSI 237 (in the Industry Relations admin suite).
 
 ### Lecture
 
