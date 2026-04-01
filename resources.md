@@ -46,13 +46,13 @@ In this course, we will be using R, in the RStudio environment. To do so, you wi
 
 Next, you will be asked to submit many assignments in this class using R Markdown. Specifically, we will want pdf output files.
 
- - If you already have a $$\LaTeX\$$ compiler on your computer, RStudio should detect it and it should automatically work. If you are not sure whether you do or not, then you can just try it. To do so,
+ - If you already have a LaTeX compiler on your computer, RStudio should detect it and it should automatically work. If you are not sure whether you do or not, then you can just try it. To do so,
 
 1. In RStudio, go to File -> New File -> R Markdown
 2. Then select "PDF" as the Default Output Format, and hit OK
 3. At the top of the window, hit the "Knit" button next to the blue ball of yarn. If this produces a pdf file, then you are set!
 
- - If that didn't work or you know that you do not have a $$\LaTeX\$$ compiler already on your computer, the easiest thing to do is to install the `tinytex` package. To do this, just type these two lines in the Console in RStudio (one after the other):
+ - If that didn't work or you know that you do not have a LaTeX compiler already on your computer, the easiest thing to do is to install the `tinytex` package. To do this, just type these two lines in the Console in RStudio (one after the other):
 
 `install.packages("tinytex")`
 
