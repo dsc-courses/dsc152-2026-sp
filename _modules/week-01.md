@@ -18,8 +18,7 @@ days:
       - name: DISC 1
         type: disc
         title: Getting Started with R and R Markdown
-        url:
-        html: resources/discussions/20260401.W1.slides.pdf
+        url: resources/discussions/20260401.W1.slides.pdf
       - name: SUR
         type: survey
         title: Welcome Survey
