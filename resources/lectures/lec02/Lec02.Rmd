@@ -107,7 +107,7 @@ $$
 
 ```{r}
 sleep <- c(3, 7, 1, 2, 2)
-t_s <- (mean(sleep) - 6) / sd(sleep / sqrt(5))
+t_s <- (mean(sleep) - 6) / (sd(sleep) / sqrt(5))
 t_s
 ```
 
