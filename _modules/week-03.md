@@ -25,7 +25,7 @@ days:
     events:
       - name: DISC 3
         type: disc
-        title: tidyverse basics (dplyr, ggplot2, etc)
+        title: Extra Office Hours
         url:
   - date: 2026-4-16
     events:
