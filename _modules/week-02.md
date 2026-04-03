@@ -23,7 +23,7 @@ days:
     events:
       - name: DISC 2
         type: disc
-        title: Simulations in R
+        title: tidyverse basics (dplyr, ggplot2, etc.)
         url:
   - date: 2026-4-9
     events:
