@@ -12,9 +12,9 @@ days:
     events:
       - name: LEC 3
         type: lecture
-        title: One sample nonparametric tests and Type I Errors
-        url:
-        html:
+        title: Nonparametric tests and Type I Errors
+        url: resources/lectures/lec03/Lec03.Rmd
+        html: resources/lectures/lec03/Lec03.pdf
         podcast:
         readings:
           - name: PS 11

@@ -7,7 +7,7 @@ days:
       - name: LAB 2
         type: lab
         title: Type I Error Rate and Power
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc152-2026-sp&subPath=labs/Lab2/Lab2.ipynb
   - date: 2026-4-14
     events:
       - name: LEC 5
