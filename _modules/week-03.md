@@ -48,7 +48,8 @@ days:
         type: hw
         title: One Sample Type I Errors and Power
         url: resources/homework/HW1.pdf
-        readings:
-          - name: dataset
-          - url: https://github.com/dsc-courses/dsc152-2026-sp/blob/gh-pages/resources/homework/smith.txt
+      - name: data
+        type: hw
+        title: HW1 dataset
+        url: resources/homework/smith.txt
 ---
