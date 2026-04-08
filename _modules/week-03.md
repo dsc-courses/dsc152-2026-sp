@@ -50,5 +50,5 @@ days:
         url: resources/homework/HW1.pdf
         readings:
           - name: dataset
-          - url: resources/homework/smith.txt
+          - url: https://github.com/dsc-courses/dsc152-2026-sp/blob/gh-pages/resources/homework/smith.txt
 ---
