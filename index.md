@@ -22,7 +22,7 @@ Next to each lecture below, "code" is the .Rmd file that makes the slides, and "
 be what I project in class, and that you can either print or download to take notes on. 
 You can ignore the "code" file unless you are curious about how anything in the slides
 was created. Note: if you want to open it in a new tab, you can right-click and select "Open link in new tab" there; 
-(I couldn't figure out how to make it automatically open in a new tab with a left-click). 
+(I couldn't figure out how to make it automatically open in a new tab with a left-click in this website theme). 
 
 <!--{: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due very soon, on **Saturday, September 27th at 11:59PM**.-->
