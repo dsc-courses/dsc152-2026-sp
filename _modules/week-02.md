@@ -28,7 +28,7 @@ days:
       - name: DISC 2
         type: disc
         title: code
-        url: resources/discussions/20260408.W2.slides.R
+        url: resources/discussions/20260408.W2.code.R
   - date: 2026-4-9
     events:
       - name: LEC 4
