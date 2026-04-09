@@ -38,6 +38,7 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 color_scheme: bluecsd
 search_enabled: true
 heading_anchors: true
+nav_external_links_new_tab: true
 permalink: pretty
 aux_links:
   🙋 Campuswire:
