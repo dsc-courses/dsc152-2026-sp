@@ -15,6 +15,7 @@ days:
         title: Nonparametric tests and Type I Errors
         url: resources/lectures/lec03/Lec03.Rmd
         html: resources/lectures/lec03/Lec03.pdf
+        opens_in_new_tab: true
         podcast:
         readings:
           - name: PS 11
