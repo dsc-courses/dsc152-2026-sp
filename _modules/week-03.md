@@ -47,5 +47,9 @@ days:
       - name: HW 1
         type: hw
         title: One Sample Type I Errors and Power
-        url:
+        url: resources/homework/HW1.pdf
+      - name: data
+        type: hw
+        title: HW1 dataset
+        url: resources/homework/smith.txt
 ---
