@@ -7,7 +7,7 @@ days:
       - name: LAB 3
         type: lab
         title: Effect Size, A/B Testing
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc152-2026-sp&subPath=labs/Lab3/Lab3.ipynb
   - date: 2026-4-21
     events:
       - name: LEC 7
