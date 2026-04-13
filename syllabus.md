@@ -58,7 +58,7 @@ We will hold the following weekly office hours this quarter:
 - Thursdays 12:30-1:30pm (Peter)
 - Fridays 12:30-1:30pm (Arunima)
 
-All office hours will be in HDSI Rm 336. The room is large enough that you are welcome to come there and work on DSC 152 assignments
+All office hours will be in <s>HDSI Rm 336</s> HDSI Rm 355. The room is large enough that you are welcome to come there and work on DSC 152 assignments
 even if you do not have specific questions ahead of time, but want to be in the 
 presence of staff for any help you may need as you work.
 
