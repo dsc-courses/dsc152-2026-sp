@@ -107,7 +107,7 @@ points(powers[2,] ~ n, pch=15, cex=2)
 lines(powers[2,] ~ n)
 points(powers[3,] ~ n, pch=17, cex=2)
 lines(powers[3,] ~ n)
-legend("right", pch=c(17, 15, 19), legend=c(expression(paste(mu, "=5hr55min")), 
+legend("right", pch=c(19, 15, 17), legend=c(expression(paste(mu, "=5hr55min")), 
                                             expression(paste(mu, "=5hr58min")), 
                                             expression(paste(mu, "=5hr59min"))), cex=2)
 ```
