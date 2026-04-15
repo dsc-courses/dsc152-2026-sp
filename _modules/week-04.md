@@ -26,6 +26,10 @@ days:
       - name: QUIZ 1
         type: quiz
         title: Quiz 1 covers Lectures 1-5
+      - name: PRACTICE
+        type: quiz
+        title: Practice Quiz 1
+        url: resources/quizzes/Practice_Quiz1.pdf
   - date: 2026-4-23
     events:
       - name: LEC 8
