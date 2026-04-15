@@ -32,8 +32,8 @@ days:
       - name: LEC 6
         type: lecture
         title: A/B Testing Principles and t-Test vs. Permutation Test
-        url:
-        html:
+        url: resources/lectures/lec06/Lec06.Rmd
+        html: resources/lectures/lec06/Lec06.pdf
         podcast:
         readings:
           - name: Jalapic
