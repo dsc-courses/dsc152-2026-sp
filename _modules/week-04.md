@@ -26,7 +26,7 @@ days:
       - name: QUIZ 1
         type: quiz
         title: Quiz 1 covers Lectures 1-5
-      - name: PRACTICE
+      - name: PRAC
         type: quiz
         title: Practice Quiz 1
         url: resources/quizzes/Practice_Quiz1.pdf
