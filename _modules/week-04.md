@@ -1,5 +1,5 @@
 ---
-title: Week 4 – Multiple Linear Regression
+title: Week 4 – Linear Regression
 weekNumber: 4
 days:
   - date: 2026-4-20
