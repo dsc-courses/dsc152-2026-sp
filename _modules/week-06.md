@@ -1,5 +1,5 @@
 ---
-title: Week 6 – Model Selection, Logistic Regression
+title: Week 6 – Interaction
 weekNumber: 6
 days:
   - date: 2026-5-4

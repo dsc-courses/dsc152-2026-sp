@@ -1,5 +1,5 @@
 ---
-title: Week 7 – Transformations, Model Selection, Logistic Regression
+title: Week 7 – Transformations, Model Selection
 weekNumber: 7
 days:
   - date: 2026-5-11
