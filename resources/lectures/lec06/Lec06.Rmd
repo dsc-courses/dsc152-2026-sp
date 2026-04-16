@@ -152,17 +152,17 @@ rect(
 \vspace{-2mm}
  - All participants take the pre-test.
 
-\vspace{2mm}
+\vspace{0.5mm}
 
  - Participants then get randomly assigned to either:
    - Do the handwritten exercises
    - Do the coding exercises
    
-\vspace{2mm}
+\vspace{0.5mm}
 
  - Participants then take the post-test.
  
-\vspace{2mm}
+\vspace{0.5mm}
 
  - We record (post-test score - pre-test score) for each participant.
  
