@@ -12,7 +12,7 @@ days:
     events:
       - name: LEC 9
         type: lecture
-        title: Model Diagnostics in Regression 
+        title: Categorical Predictor Variables
         url:
         html:
         podcast:
@@ -29,7 +29,7 @@ days:
     events:
       - name: LEC 10
         type: lecture
-        title: Categorical Predictor Variables
+        title: Model Diagnostics in Regression
         url:
         html:
         podcast:
