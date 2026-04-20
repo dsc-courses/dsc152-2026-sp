@@ -125,7 +125,6 @@ ggplot(data = march_madness, aes(y = bracket_score, x=knowledge)) +
 ```
 
 
-
 ## Least Squares Solutions {.t}
 Then, if we want to model their relationship...
 
@@ -141,6 +140,27 @@ $$
 :::
 
 \pause 
+
+\center
+Quote of the Day:
+
+![](willard.png){width=30%}
+
+
+## Least Squares Solutions {.t}
+Then, if we want to model their relationship...
+
+::: {.block}
+### In DSC 40A you derived the least squares solutions:
+
+\vspace{-3mm}
+$$
+\hat{\beta}_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}, \qquad \hat{\beta}_0 = \overline{y} - \hat{\beta}_1 \overline{x}
+$$
+
+(how the heck did we get these again?)
+:::
+
 
 In this particular case these would give:
 ```{r, size="scriptsize"}
@@ -173,7 +193,7 @@ ggplot(data = march_madness, aes(y = bracket_score, x=knowledge)) +
 
 
 
-## Least Squares Regression Line?
+## Least Squares Regression Line
 The blue line drawn on the scatterplot is the best fitting line to the data, in the sense that the quantity
 $$
 RSS = \sum_{i=1}^n (y_i - \hat{y}_i)^2
