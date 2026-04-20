@@ -30,6 +30,11 @@ days:
         type: quiz
         title: Practice Quiz 1
         url: resources/quizzes/Practice_Quiz1.pdf
+      - name: PRAC
+        type: quiz
+        title: Practice Quiz 1 Solutions
+        url: resources/quizzes/Practice_Quiz1solutions.pdf
+
   - date: 2026-4-23
     events:
       - name: LEC 8
