@@ -44,10 +44,14 @@ days:
             url: https://data36.com/statistical-significance-in-ab-testing/
           - name: Unbounce
             url: https://unbounce.com/landing-page-articles/what-is-ab-testing/
-      - name: HW 1
+      - name: HW1
         type: hw
         title: One Sample Type I Errors and Power
         url: resources/homework/HW1.pdf
+      - name: HW1
+        type: hw
+        title: Homework 1 Answer Key
+        url: resources/homework/HW1KEY.pdf
       - name: data
         type: hw
         title: HW1 dataset
