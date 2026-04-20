@@ -13,8 +13,8 @@ days:
       - name: LEC 7
         type: lecture
         title: Statistical Inference for Simple Linear Regression
-        url:
-        html:
+        url: resources/lectures/lec07/Lec07.Rmd
+        html: resources/lectures/lec07/Lec07.pdf
         podcast:
         readings:
           - name: MD 10
