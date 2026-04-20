@@ -36,4 +36,8 @@ days:
         readings:
           - name: HRM 4.5
             url: https://peopleanalytics-regression-book.org/linear_regression.html#testing-your-model-assumptions
+      - name: SUR
+        type: survey
+        title: Mid-Quarter Survey
+        url:            
 ---

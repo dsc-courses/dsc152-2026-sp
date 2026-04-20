@@ -41,9 +41,4 @@ days:
         readings:
           - name: HRM 4.3
             url: https://peopleanalytics-regression-book.org/linear_regression.html#sec-multiple-linear-regression
-
-      - name: SUR
-        type: survey
-        title: Mid-Quarter Survey
-        url:
 ---
