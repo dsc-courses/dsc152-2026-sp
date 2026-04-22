@@ -40,8 +40,8 @@ days:
       - name: LEC 8
         type: lecture
         title: Statistical Inference for Multiple Linear Regression
-        url:
-        html:
+        url: resources/lectures/lec08/Lec08.Rmd
+        html: resources/lectures/lec08/Lec08.pdf
         podcast:
         readings:
           - name: HRM 4.3
