@@ -21,7 +21,7 @@ days:
             url: https://peopleanalytics-regression-book.org/linear_regression.html#transforming-categorical-inputs-to-dummy-variables
       - name: DATA
         type: survey
-        title: Lecture data: Mental Health Dogs
+        title: Lecture data (Mental Health Dogs)
         url: resources/lectures/lec09/dog_data_lonely.csv
   - date: 2026-4-29
     events:
