@@ -13,12 +13,16 @@ days:
       - name: LEC 9
         type: lecture
         title: Categorical Predictor Variables
-        url:
-        html:
+        url: resources/lectures/lec09/Lec09.Rmd
+        html: resources/lectures/lec09/Lec09.pdf
         podcast:
         readings:
           - name: HRM 4.4.3
             url: https://peopleanalytics-regression-book.org/linear_regression.html#transforming-categorical-inputs-to-dummy-variables
+      - name: DATA
+        type: survey
+        title: Lecture data: Mental Health Dogs
+        url: resources/lectures/lec09/dog_data_lonely.csv
   - date: 2026-4-29
     events:
       - name: DISC 4
