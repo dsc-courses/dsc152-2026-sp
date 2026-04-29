@@ -34,8 +34,8 @@ days:
       - name: LEC 10
         type: lecture
         title: Model Diagnostics in Regression
-        url:
-        html:
+        url: resources/lectures/lec10/Lec10.Rmd
+        html: resources/lectures/lec10/Lec10.pdf
         podcast:
         readings:
           - name: HRM 4.5
