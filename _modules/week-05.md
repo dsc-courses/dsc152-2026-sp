@@ -28,7 +28,7 @@ days:
       - name: DISC 4
         type: disc
         title: HW1 and Quiz 1 review
-        url:
+        url: resources/discussions/20260429.W5.slides.pdf
   - date: 2026-4-30
     events:
       - name: LEC 10
