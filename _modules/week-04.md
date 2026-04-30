@@ -21,6 +21,10 @@ days:
             url: https://moderndive.com/v2/inference-for-regression.html
           - name: SPA 6.12-6.13
             url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#inference-in-the-context-of-regression
+      - name: DATA
+        type: survey
+        title: Lecture data (March Madness)
+        url: resources/lectures/lec07/march_madness.csv            
   - date: 2026-4-22
     events:
       - name: QUIZ 1
