@@ -37,7 +37,7 @@ days:
       - name: HW 2
         type: hw
         title: Inference in Regression
-        url: resources/homework/HW1.pdf
+        url: resources/homework/HW2.pdf
       - name: data
         type: hw
         title: HW2 dataset
