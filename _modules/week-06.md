@@ -19,6 +19,10 @@ days:
         readings:
           - name: HRM 4.6.1
             url: https://peopleanalytics-regression-book.org/linear_regression.html#interactions-between-input-variables
+      - name: SUR
+        type: survey
+        title: Mid-Quarter Survey
+        url: https://forms.gle/Bzjg4xskdtiTHy3bA
   - date: 2026-5-6
     events:
       - name: DISC 5
