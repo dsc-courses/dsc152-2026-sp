@@ -19,6 +19,10 @@ days:
         readings:
           - name: HRM 4.6.1
             url: https://peopleanalytics-regression-book.org/linear_regression.html#interactions-between-input-variables
+      - name: DATA
+        type: survey
+        title: Lecture data (Learning Probability Theorey)
+        url: resources/lectures/lec11/learn_prob.csv
       - name: SUR
         type: survey
         title: Mid-Quarter Survey
