@@ -21,7 +21,7 @@ days:
             url: https://peopleanalytics-regression-book.org/linear_regression.html#interactions-between-input-variables
       - name: DATA
         type: survey
-        title: Lecture data (Learning Probability Theorey)
+        title: Lecture data (Learning Probability Theory)
         url: resources/lectures/lec11/learn_prob.csv
       - name: SUR
         type: survey
