@@ -14,7 +14,7 @@ days:
         type: lecture
         title: "Interaction Terms: Interpretation and Inference "
         url: resources/lectures/lec11/Lec11.Rmd
-        html: resources/lectures/lec11/Lec11.pdf
+        html: resources/lectures/lec11/lec11.pdf
         podcast:
         readings:
           - name: HRM 4.6.1
