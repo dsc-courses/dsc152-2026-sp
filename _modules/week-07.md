@@ -26,6 +26,10 @@ days:
       - name: QUIZ 2
         type: quiz
         title: Quiz 2 covers Lectures 6-11
+      - name: PRAC
+        type: quiz
+        title: Practice Quiz 2
+        url: resources/quizzes/Practice_Quiz2.pdf
   - date: 2026-5-14
     events:
       - name: LEC 14
