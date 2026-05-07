@@ -186,7 +186,7 @@ ggplot(data=mh_df, mapping=aes(x=gym, y=score, fill=meditate)) +
 ## Recall: Mental Health Self-Experiment {.t}
 The linear model was:
 $$
-y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \beta_3 x_1x_2
+\hat{y} = \hat{\beta}_0 + \hat{\beta}_1 x_1 + \hat{\beta}_2 x_2 + \hat{\beta}_3 x_1x_2
 $$
 where 
 
@@ -208,7 +208,7 @@ where
 ## Recall: Mental Health Self-Experiment {.t}
 The linear model was:
 $$
-y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \beta_3 x_1x_2
+\hat{y} = \hat{\beta}_0 + \hat{\beta}_1 x_1 + \hat{\beta}_2 x_2 + \hat{\beta}_3 x_1x_2
 $$
 where 
 
@@ -222,7 +222,7 @@ where
 and finally,
 
  - $H_0: \beta_2 = \beta_3 = 0$
-   - (Is gym in combination with its interaction statistically significant?)
+   - (Is meditation in combination with its interaction statistically significant?)
 
 
 
