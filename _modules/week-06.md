@@ -37,11 +37,17 @@ days:
     events:
       - name: LEC 12
         type: lecture
-        title: "Interaction Terms: Inference and Diagnostics"
-        url:
-        html:
+        title: "Interaction Terms, Continued"
+        url: resources/lectures/lec12/Lec12.Rmd
+        html: resources/lectures/lec12/Lec12.pdf
         podcast:
         readings:
+          - name: HRM 4.6.1
+            url: https://peopleanalytics-regression-book.org/linear_regression.html#interactions-between-input-variables
+      - name: DATA
+        type: survey
+        title: Lecture data (Rosa Smith stats)
+        url: resources/lectures/lec12/smith.txt
       - name: HW 2
         type: hw
         title: Inference in Regression
