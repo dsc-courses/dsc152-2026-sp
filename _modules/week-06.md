@@ -48,10 +48,14 @@ days:
         type: survey
         title: Lecture data (Rosa Smith stats)
         url: resources/lectures/lec12/smith.txt
-      - name: HW 2
+      - name: HW2
         type: hw
         title: Inference in Regression
         url: resources/homework/HW2.pdf
+      - name: HW2
+        type: hw
+        title: Homework 2 Answer Key
+        url: resources/homework/HW2KEY.pdf
       - name: data
         type: hw
         title: HW2 dataset
