@@ -12,15 +12,13 @@ days:
     events:
       - name: LEC 13
         type: lecture
-        title: Transformations of Variables
-        url:
-        html:
+        title: Pitfalls of Mixing Model Selection with Inference
+        url: resources/lectures/lec13/Lec13.Rmd
+        html: resources/lectures/lec13/Lec13.pdf
         podcast:
         readings:
-          - name: IS 6.15
-            url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#centering-and-scaling
-          - name: 6.16
-            url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#log-transformation
+          - name: Berk 2013
+            url: https://dsc152.com/resources/references/Berk2013_post-selection.pdf  
   - date: 2026-5-13
     events:
       - name: QUIZ 2
@@ -38,11 +36,13 @@ days:
     events:
       - name: LEC 14
         type: lecture
-        title: Pitfalls of Mixing Model Selection with Inference
+        title: Transformations of Variables
         url:
         html:
         podcast:
         readings:
-          - name: Berk 2013
-            url: https://dsc152.com/resources/references/Berk2013_post-selection.pdf
+          - name: IS 6.15
+            url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#centering-and-scaling
+          - name: 6.16
+            url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#log-transformation
 ---
