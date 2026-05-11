@@ -30,6 +30,10 @@ days:
         type: quiz
         title: Practice Quiz 2
         url: resources/quizzes/Practice_Quiz2.pdf
+      - name: PRAC
+        type: quiz
+        title: Practice Quiz 2 Answer Key
+        url: resources/quizzes/Practice_Quiz2solutions.pdf
   - date: 2026-5-14
     events:
       - name: LEC 14
