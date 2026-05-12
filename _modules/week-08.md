@@ -7,7 +7,7 @@ days:
       - name: LAB 7
         type: lab
         title: Transformations, Model Selection and Inference
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc152-2026-sp&subPath=labs/LabX/LabX.ipynb
   - date: 2026-5-19
     events:
       - name: LEC 15
