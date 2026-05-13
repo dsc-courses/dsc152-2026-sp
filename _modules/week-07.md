@@ -37,12 +37,20 @@ days:
       - name: LEC 14
         type: lecture
         title: Transformations of Variables
-        url:
-        html:
+        url: resources/lectures/lec13/Lec14.Rmd
+        html: resources/lectures/lec13/Lec14.pdf
         podcast:
         readings:
           - name: IS 6.15
             url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#centering-and-scaling
           - name: 6.16
             url: https://bookdown.org/jefftemplewebb/IS-6489/linear-regression.html#log-transformation
+      - name: DATA
+        type: survey
+        title: Lecture data (FEV)
+        url: resources/lectures/lec14/FEV.txt
+      - name: DATA
+        type: survey
+        title: Lecture data (Hybrid vehicles)
+        url: resources/lectures/lec14/hybrid.csv
 ---
