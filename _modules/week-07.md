@@ -37,8 +37,8 @@ days:
       - name: LEC 14
         type: lecture
         title: Transformations of Variables
-        url: resources/lectures/lec13/Lec14.Rmd
-        html: resources/lectures/lec13/Lec14.pdf
+        url: resources/lectures/lec14/Lec14.Rmd
+        html: resources/lectures/lec14/Lec14.pdf
         podcast:
         readings:
           - name: IS 6.15
