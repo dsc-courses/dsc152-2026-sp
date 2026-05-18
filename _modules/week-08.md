@@ -12,15 +12,13 @@ days:
     events:
       - name: LEC 15
         type: lecture
-        title: Introduction to Logistic Regression
-        url:
-        html:
+        title: Relative Risks and Odds Ratios
+        url: resources/lectures/lec15/Lec15.Rmd
+        html: resources/lectures/lec15/Lec15.pdf
         podcast:
         readings:
-          - name: IS 8
-            url: https://bookdown.org/jefftemplewebb/IS-6489/logistic-regression.html
-          - name: HRM 5
-            url: https://peopleanalytics-regression-book.org/binomial_logistic_regression.html
+          - name: PS 8
+            url: https://online.stat.psu.edu/stat500/Lesson08
   - date: 2026-5-20
     events:
       - name: DISC 6
