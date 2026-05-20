@@ -24,7 +24,7 @@ days:
   -                                                         - name: DISC 7
   -                                                             type: disc
   -                                                                 title: Extra Office Hours
-  -                                                                     url:
+  -                                                                      url:
   -                                                                   - date: 2026-5-28
   -                                                                   events:
   -                                                                     - name: LEC 18
