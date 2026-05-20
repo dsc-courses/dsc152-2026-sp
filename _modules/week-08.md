@@ -26,7 +26,7 @@ days:
       - name: DISC 6
         type: disc
         title: HW2 and Quiz 2 review
-        url:
+        url: resources/discussions/20260520.W8.slides.pdf
   - date: 2026-5-21
     events:
       - name: LEC 16
