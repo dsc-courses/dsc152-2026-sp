@@ -39,5 +39,5 @@ days:
           - name: HRM 5
             url: https://peopleanalytics-regression-book.org/binomial_logistic_regression.html
           - name: Smith 1988
-            url: resources/references/Berk2013_post-selection.pdf
+            url: resources/references/Smith1988_diabetes.pdf
 ---
