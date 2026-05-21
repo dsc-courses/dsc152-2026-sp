@@ -30,12 +30,14 @@ days:
       - name: LEC 16
         type: lecture
         title: Statistical Inference for Logistic Regression
-        url:
-        html:
+        url: resources/lectures/lec16/Lec16.Rmd
+        html: resources/lectures/lec16/Lec16.pdf
         podcast:
         readings:
           - name: IS 8
             url: https://bookdown.org/jefftemplewebb/IS-6489/logistic-regression.html
           - name: HRM 5
             url: https://peopleanalytics-regression-book.org/binomial_logistic_regression.html
+          - name: Smith 1988
+            url: resources/references/Berk2013_post-selection.pdf
 ---

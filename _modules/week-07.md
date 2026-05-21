@@ -18,7 +18,7 @@ days:
         podcast:
         readings:
           - name: Berk 2013
-            url: https://dsc152.com/resources/references/Berk2013_post-selection.pdf  
+            url: resources/references/Berk2013_post-selection.pdf  
   - date: 2026-5-13
     events:
       - name: QUIZ 2
