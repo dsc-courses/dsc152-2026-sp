@@ -9,7 +9,7 @@ days:
         title: "Poker and Slot Machines: Model Selection and other considerations"
         url:
     events:
-      - name: LAB 9
+      - name: REF
         type: lab
         title: "Paper: Lucas 2013"
         url: resources/references/Lucas2013_poker-slots-table.pdf
