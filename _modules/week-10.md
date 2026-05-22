@@ -10,7 +10,7 @@ days:
         url:
     events:
       - name: LAB 9
-        type: REF
+        type: lab
         title: "Paper: Lucas 2013"
         url: resources/references/Lucas2013_poker-slots-table.pdf
   - date: 2026-6-2
