@@ -39,5 +39,9 @@ days:
       - name: HW 3
         type: hw
         title: Logistic Regression, Interaction Terms, Model Selection
-        url:
+        url: resources/homework/HW3.pdf
+      - name: DATA
+        type: hw
+        title: Homework data (Hotel bookings) 
+        url: resources/homework/hotel_bookings.csv
 ---
