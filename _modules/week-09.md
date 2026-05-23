@@ -38,7 +38,7 @@ days:
             url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/correlations-and-arima.html
       - name: HW 3
         type: hw
-        title: Workflow with Logistic Regression, Interaction Terms, Model Selection
+        title: Logistic Regression, Interaction Terms, Model Selection
         url: resources/homework/HW3.pdf
       - name: DATA
         type: hw
