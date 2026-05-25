@@ -12,13 +12,27 @@ days:
     events:
       - name: LEC 17
         type: lecture
-        title: Introduction to Time Series
-        url:
-        html:
-        podcast:
+        title: Introduction to Time Series, Part 1
+        url: resources/lectures/lec17/Lec17Part1.Rmd
+        html: resources/lectures/lec17/Lec17Part1.pdf
+        podcast: https://youtu.be/uJNCTvscdPI
         readings:
-          - name: TSR 4–6
-            url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/basic-concepts.html
+          - name: SGTSA 1-2
+            url: https://bookdown.org/JakeEsprabens/431-Time-Series/introduction-to-time-series.html
+      - name: LEC 17
+        type: lecture
+        title: Introduction to Time Series, Part 2
+        url: resources/lectures/lec17/Lec17Part2.Rmd
+        html: resources/lectures/lec17/Lec17Part2.pdf
+        podcast: https://youtu.be/t060FkcJxD0
+      - name: DATA
+        type: survey
+        title: Lecture data (Poker Hands)
+        url: resources/lectures/lec17/PokerHands1NL.csv
+      - name: DATA
+        type: survey
+        title: Lecture data (Casino)
+        url: resources/lectures/lec17/casino_poker_data.csv
   - date: 2026-5-27
     events:
       - name: DISC 7
