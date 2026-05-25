@@ -50,6 +50,8 @@ days:
         readings:
           - name: TSR 8–9
             url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/correlations-and-arima.html
+          - name: FPP 8
+            url: https://otexts.com/fpp2/MA.html
       - name: HW 3
         type: hw
         title: Logistic Regression, Interaction Terms, Model Selection
