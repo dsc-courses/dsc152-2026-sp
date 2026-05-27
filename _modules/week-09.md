@@ -44,14 +44,14 @@ days:
       - name: LEC 18
         type: lecture
         title: Time Series Regression
-        url:
-        html:
+        url: resources/lectures/lec18/Lec18.Rmd
+        html: resources/lectures/lec18/Lec18.Rmd
         podcast:
         readings:
-          - name: TSR 8–9
-            url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/correlations-and-arima.html
-          - name: FPP 8
-            url: https://otexts.com/fpp2/MA.html
+          - name: TSR 9
+            url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/regression.html
+          - name: FPP 9.2
+            url: https://otexts.com/fpp2/regarima.html
       - name: HW 3
         type: hw
         title: Logistic Regression, Interaction Terms, Model Selection
