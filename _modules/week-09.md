@@ -45,7 +45,7 @@ days:
         type: lecture
         title: Time Series Regression
         url: resources/lectures/lec18/Lec18.Rmd
-        html: resources/lectures/lec18/Lec18.Rmd
+        html: resources/lectures/lec18/Lec18.pdf
         podcast:
         readings:
           - name: TSR 9
