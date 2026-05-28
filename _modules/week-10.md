@@ -28,6 +28,10 @@ days:
       - name: QUIZ 3
         type: quiz
         title: Quiz 3 covers lectures 12-17
+      - name: PRAC
+        type: quiz
+        title: Practice Quiz 3 - key to be posted Monday 6/1
+        url: resources/quizzes/Practice_Quiz3.pdf
   - date: 2026-6-4
     events:
       - name: LEC 20
