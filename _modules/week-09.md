@@ -52,6 +52,10 @@ days:
             url: https://nicolarighetti.github.io/Time-Series-Analysis-With-R/regression.html
           - name: FPP 9.2
             url: https://otexts.com/fpp2/regarima.html
+      - name: DATA
+        type: survey
+        title: Lecture data (Jalen Brunson scoring vs. defense)
+        url: resources/lectures/lec18/JBrunson25-26.csv
       - name: HW 3
         type: hw
         title: Logistic Regression, Interaction Terms, Model Selection
