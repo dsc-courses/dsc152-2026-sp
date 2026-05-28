@@ -7,7 +7,7 @@ days:
       - name: LAB 9
         type: lab
         title: "Poker and Slot Machines: Model Selection and other considerations"
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc152-2026-sp&subPath=labs/Lab9/Lab9.ipynb
       - name: LAB 9
         type: lab
         title: "Paper: Lucas 2013"
