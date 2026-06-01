@@ -24,6 +24,11 @@ days:
       - name: QUIZ 2
         type: quiz
         title: Quiz 2 covers Lectures 6-11
+        url: resources/quizzes/Quiz2.pdf
+      - name: QUIZ 2
+        type: quiz
+        title: Quiz 2 solutions
+        url: resources/quizzes/Quiz2solutions.pdf
       - name: PRAC
         type: quiz
         title: Practice Quiz 2
