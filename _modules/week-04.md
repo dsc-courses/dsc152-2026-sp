@@ -30,7 +30,7 @@ days:
       - name: QUIZ 1
         type: quiz
         title: Quiz 1 covers Lectures 1-5
-        url: resources/quizzes/Quiz1.pdf
+        url: resources/quizzes/Quiz1a.pdf
       - name: QUIZ 1
         type: quiz
         title: Quiz 1 solutions
