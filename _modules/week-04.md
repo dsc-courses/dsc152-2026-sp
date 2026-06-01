@@ -30,6 +30,11 @@ days:
       - name: QUIZ 1
         type: quiz
         title: Quiz 1 covers Lectures 1-5
+        url: resources/quizzes/Quiz1.pdf
+      - name: QUIZ 1
+        type: quiz
+        title: Quiz 1 solutions
+        url: resources/quizzes/Quiz1solutions.pdf
       - name: PRAC
         type: quiz
         title: Practice Quiz 1
