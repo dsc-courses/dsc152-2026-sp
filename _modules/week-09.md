@@ -60,6 +60,10 @@ days:
         type: hw
         title: Logistic Regression, Interaction Terms, Model Selection
         url: resources/homework/HW3.pdf
+      - name: HW 3
+        type: hw
+        title: Homework 3 Sample Solutions
+        url: resources/homework/HW3_sample_solutions.pdf
       - name: DATA
         type: hw
         title: Homework data (Hotel bookings) 
