@@ -16,9 +16,9 @@ days:
     events:
       - name: LEC 19
         type: lecture
-        title: Time Series Models
-        url:
-        html:
+        title: Power Estimation in Time Series Regression
+        url: resources/lectures/lec19/Lec19.Rmd
+        html: resources/lectures/lec19/Lec19.pdf
         podcast:
         readings:
           - name: RC 14.13-14.20
