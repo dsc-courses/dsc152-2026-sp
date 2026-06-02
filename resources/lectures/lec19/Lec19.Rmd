@@ -3,7 +3,7 @@ title: |
   | DSC 152: 
   | Applied Statistical Data Analysis and Inference
 author: | 
-  | Lecture \#18
+  | Lecture \#19
   | Time Series Regression
   | Power Estimation
 date: |
