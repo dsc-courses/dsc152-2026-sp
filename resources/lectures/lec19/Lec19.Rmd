@@ -256,7 +256,7 @@ Let's stick with an AR(2) model as in the previous example from today, and simul
 ### Suppose the true model is:
 \vspace{-6mm}
 $$
-y_t = \beta_0 + \beta_1 x + \phi_1 y_{t-1} + \phi_2 y_{t-2} + \epsilon_t
+y_t = \beta_0 + \beta_1 x_t + \phi_1 y_{t-1} + \phi_2 y_{t-2} + \epsilon_t
 $$
 :::
 
