@@ -36,6 +36,10 @@ days:
         type: quiz
         title: Practice Quiz 3 solutions
         url: resources/quizzes/Practice_Quiz3solutions.pdf
+      - name: QUIZ 3 SOLUTIONS
+        type: disc
+        title: Quiz 3 Solutions
+        url: resrouces/discussions/202600603.quiz3.solutions.pdf
   - date: 2026-6-4
     events:
       - name: LEC 20
