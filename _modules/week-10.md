@@ -41,7 +41,7 @@ days:
       - name: QUIZ 3 SOLUTIONS
         type: disc
         title: Quiz 3 Solutions
-        url: resrouces/discussions/20260603.quiz3.solutions.pdf
+        url: resources/discussions/20260603.quiz3.solutions.pdf
   - date: 2026-6-4
     events:
       - name: LEC 20
