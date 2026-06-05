@@ -25,6 +25,11 @@ days:
       - name: QUIZ 3
         type: quiz
         title: Quiz 3 covers lectures 12-17
+        url: resources/quizzes/Quiz3.pdf
+      - name: QUIZ 3
+        type: quiz
+        title: Quiz 3 Answer Key
+        url: resources/quizzes/Quiz3solutions.pdf
       - name: PRAC
         type: quiz
         title: Practice Quiz 3
