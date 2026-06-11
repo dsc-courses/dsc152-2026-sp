@@ -60,4 +60,9 @@ days:
       - name: EXAM
         type: exam
         title: <b>Final Exam (3-6pm)</b>
+        url: resources/finalexam/Final.pdf
+      - name: EXAM
+        type: exam
+        title: Final Exam Solutions
+        url: resources/finalexam/Finalsolutions.pdf
 ---
